@@ -1,0 +1,11 @@
+42fa2465262a38c68c5ffececfc6068a34916e2ac878c742429f63ec2efe0f27 Indicators Report
+
+The provided information is related to a file named “file.exe”, which is a Windows executable file with the file size of 691216 bytes. The file was first seen on 2023-06-28 14:21:44. The SHA256 hash, which is used to uniquely identify the file, is 42fa2465262a38c68c5ffececfc6068a34916e2ac878c742429f63ec2efe0f27.
+
+The file has been reported by Abuse_ch and its origin country is Netherlands. It has been tagged as “exe” and has been identified by various antivirus programs, including ClamAV, as Win.Dropper.Formbook-9993903-0, Win.Packed.Cerbu-9993871-0, Win.Packed.Formbook-9980347-1 and Win.Packed.Generic-6680913-0.
+
+The file has been found to be associated with malicious activity by Any.Run, where it has been identified as belonging to the “AgentTesla” malware family. The analysis URL associated with this file is https://app.any.run/tasks/f569ef6c-9b21-48a3-86de-43f741e21bf2.
+
+The file has also been identified by BAZT_B5_NOCEXInvalidStream Yara rule.
+
+Overall, this file has been identified as malicious by various antivirus programs, intelligence sources, and Yara rules.

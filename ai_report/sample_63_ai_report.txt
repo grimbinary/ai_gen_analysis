@@ -1,0 +1,7 @@
+868e699e1197dd8964c12f89b973ecce755244515c3207063e6fc4218a321b6a Indicators Report
+
+This report summarizes the most interesting aspects of the provided data on the file 868e699e1197dd8964c12f89b973ecce755244515c3207063e6fc4218a321b6a. The file was first seen on 2023-06-28 14:41:22 and is a .exe file of size 517826 bytes. It was reported by abuse_ch and has an origin country of NL. The signature for this file is Loki and it is tagged as an 'exe' and a 'Loki'. It is also associated with the Imphash e2a592076b17ef8bfb48b7e03965a3fc.
+
+The delivery method for this file was web download and it has been associated with 241 downloads and 1 uploads. It has been identified as a malicious program by SecuriteInfo.com.Trojan.Loader.1568.3994.29406.UNOFFICIAL by ClamAV and has been deemed as suspicious activity by ANY.RUN. It is also associated with the URLhaus URL https://urlhaus.abuse.ch/url/2672636/ and the CAPE Sandbox analysis https://www.capesandbox.com/analysis/403578/.
+
+Overall, 868e699e1197dd8964c12f89b973ecce755244515c3207063e6fc4218a321b6a appears to be a malicious executable file that has been identified as malicious by multiple sources. It has been associated with a large number of downloads and uploads and is associated with the URLhaus URL and CAPE Sandbox analysis.

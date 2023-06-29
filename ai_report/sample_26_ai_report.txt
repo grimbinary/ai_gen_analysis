@@ -1,0 +1,7 @@
+The SHA256 Hash of 999b9220114d400040d6db03f6412a38fbd3f29139c314e95697aaa8ed5965f8 indicates an executable file named ISF document.exe, which was first seen on 2023-06-28 19:31:26. The file size is 707072 bytes and its type is application/x-dosexec. The reporter is James_inthe_box and the origin country is US. The signature is AgentTesla and the tags are AgentTesla and exe. The delivery method is other and the intelligence gathered from ClamAV is SecuriteInfo.com.Trojan.PackedNET.2142.26527.6145.UNOFFICIAL. Downloads for this file are 274 and the uploads are 1. The Imphash is f34d5f2d4577ed6d9ceec516c1f5a744 and the Tlsh is T125E4283C6B7C9A22C034C6B5CED584B3F2558F3AB411D522588A7BB56762B921DC333E.
+
+The most interesting aspect of this report is the signature of AgentTesla, which is associated with malicious activity. In addition, the file has been downloaded 274 times and uploaded once, indicating that it is likely to be widely distributed. Additionally, the vendor intelligence from ANY.RUN indicates that the file is associated with the malware family AgentTesla. This is further corroborated by the Yara rules, which include pe_imphash and Skystars_Malware_Imphash. 
+
+In conclusion, the provided information indicates that the file is highly likely to be malicious and associated with the AgentTesla malware family.
+
+999b9220114d400040d6db03f6412a38fbd3f29139c314e95697aaa8ed5965f8 Indicators Report

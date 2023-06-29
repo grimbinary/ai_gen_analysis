@@ -1,15 +1,9 @@
-The SHA256 hash of this file is 46ecfef99cca7791e1774532f6cce55d14ff8ead55370c766f8778cf698eef2e. It was first seen on 2023-06-28 12:15:37, with a file name of DiscordNitro.exe, a file size of 6931046, a file type of application/x-dosexec and a reporter of anonymous. The origin country was LU and the delivery method was web_download.
+", "reference": null}], "vendor_intel": [{"name": "AegisLab", "value": "Trojan.Python.Agent.a"}]}]
 
-The intelligence provided indicates that the file was identified as a CoinMiner Trojan by ClamAV and the download and upload count is 274 and 1 respectively. It also has the imphash 0b5552dccd9d0a834cea55c0c8fc05be.
+The SHA256 Hash for this report is 46ecfef99cca7791e1774532f6cce55d14ff8ead55370c766f8778cf698eef2e. It was first seen on 2023-06-28 12:15:37. The file name associated with this report is DiscordNitro.exe and it is 6931046 bytes in size. The file type is application/x-dosexec and the reporter is anonymous. The origin country is LU and the delivery method is web_download.
 
-The file also has two yara rules associated with it, PyInstaller and SUSP_Imphash_Mar23_3. The PyInstaller rule is used to identify executable files converted using PyInstaller, while the SUSP_Imphash_Mar23_3 rule is used to detect imphash often found in malicious files.
+The signature for this report is null, however the tags associated are CoinMiner and exe. The intelligence associated with this report includes ClamAV detecting SecuriteInfo.com.HEUR.Trojan-PSW.Python.Agent.gen.8588.26986.UNOFFICIAL, 274 downloads, 1 upload, and no mail. File information includes a context of cape with a value of https://www.capesandbox.com/analysis/403454/. There is no OLE information associated with this report. There are two Yara rules associated with this report, PyInstaller and SUSP_Imphash_Mar23_3. Lastly, the vendor intel includes AegisLab detecting Trojan.Python.Agent.a.
 
-The comment associated with the file states that it is another malware found on YouTube.
+Overall, the most interesting aspect of this report is the intelligence associated with it, which includes ClamAV detecting a Trojan-PSW, 274 downloads, and 1 upload. This indicates that the file is likely malicious and may have been distributed to a large number of users. Additionally, the two Yara rules and the vendor intel indicate that this file is likely malicious.
 
-46ecfef99cca7791e1774532f6cce55d14ff8ead55370c766f8778cf698eef2e Indicators Report
-
-This report summarizes the information provided on the file with the SHA256 hash of 46ecfef99cca7791e1774532f6cce55d14ff8ead55370c766f8778cf698eef2e. The file was first seen on 2023-06-28 12:15:37, with a file name of DiscordNitro.exe, a file size of 6931046, a file type of application/x-dosexec and a reporter of anonymous. The origin country was LU and the delivery method was web_download.
-
-The intelligence provided indicates that the file was identified as a CoinMiner Trojan by ClamAV and the download and upload count is 274 and 1 respectively. It also has the imphash 0b5552dccd9d0a834cea55c0c8fc05be. The file also has two yara rules associated with it, PyInstaller and SUSP_Imphash_Mar23_3.
-
-The comment associated with the file states that it is another malware found on YouTube. This is notable as it indicates that the file may be a part of a larger campaign, and should be monitored for further activity.
+SHA256_hash 46ecfef99cca7791e1774532f6cce55d14ff8ead55370c766f8778cf698eef2e Indicators Report

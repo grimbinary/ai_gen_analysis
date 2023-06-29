@@ -1,9 +1,9 @@
-x", "reference": null}], "vendor_intel": []}]
+Title: acaa807a6fbac7521256116f532d057a15f0b71db869b235576ddf62724158e8 Indicators Report
 
-SHA256 Hash: acaa807a6fbac7521256116f532d057a15f0b71db869b235576ddf62724158e8
+This report summarizes the information provided about the file acaa807a6fbac7521256116f532d057a15f0b71db869b235576ddf62724158e8, which is a 1359491-byte executable file with the file type application/x-dosexec. The file has been seen since 2023-06-28 16:25:08 and has been reported by the abuse_ch reporter. The file is likely from the Netherlands, and it has the signature RedLineStealer.
 
-Indicators Report
+The file has been tagged as exe and RedLineStealer, and it has been identified by intelligence sources as SecuriteInfo.com.Trojan.GenericKD.38920448.13962.7593.UNOFFICIAL and Win.Dropper.Nanocore-10001520-0. The file has been downloaded 281 times and uploaded once, and it has an associated context of cape with the value https://www.capesandbox.com/analysis/403606/.
 
-This report is on the SHA256 Hash: acaa807a6fbac7521256116f532d057a15f0b71db869b235576ddf62724158e8, which is associated with a file name of 1d012b9de099f3ade1c70ac9d084067c.exe, a file size of 1359491 bytes, and a file type of application/x-dosexec. The file was first seen on 2023-06-28 16:25:08 and was reported by abuse_ch from the origin country of NL. It is associated with the signature “RedLineStealer” and tags “exe” and “RedLineStealer”. The delivery method is unknown and the intelligence associated with the file includes ClamAV detections, 281 downloads, 1 upload, and no mail. The file information includes a link to cape sandbox analysis. There are two Yara rules associated with this file, “detect_Redline_Stealer_V2” and “INDICATOR_EXE_Packed_ConfuserEx”, and no vendor intel is available.
+The file has an associated Imphash of 12e12319f1029ec4f8fcbed7e82df162, a Tlsh of T1175522427DD1A8B2D53308365A341721A83DBE306FB9CEDF63D46A5EDA215C1DA307B2, and an Ssdeep of 24576:2TbBv5rUyXVmlh6Bb024jC8TEa/oWV/XkM1KLtDW5C21dWTHknaW:IBJmloBo5jN/3/UMQLtDW4oW7KR.
 
-This SHA256 Hash is associated with a file that has been identified as a RedLineStealer, an executable type file with a file size of 1359491 bytes. The file has been reported by abuse_ch from the Netherlands and has been seen 281 times with 1 upload. It is associated with two Yara rules, “detect_Redline_Stealer_V2” and “INDICATOR_EXE_Packed_ConfuserEx”, and ClamAV detections. No vendor intel is available. The file information includes a link to cape sandbox analysis. This indicates that this file is likely malicious in nature.
+The most interesting aspect of the provided information is the signature of the file, which is RedLineStealer. This signature is associated with malware that is used to steal data from victims. Additionally, the file is associated with two Yara rules (detect_Redline_Stealer_V2 and INDICATOR_EXE_Packed_ConfuserEx) that can detect the malicious file.

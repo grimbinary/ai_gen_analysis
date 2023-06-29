@@ -1,11 +1,11 @@
-/150169f8a2862e4c977fe99b4d6a1af4e2169deae6d76d64434af35633c01e03"}}}]
+/150169f8a2862e4c977fe99b4d6a1af4e2169deae6d76d64434af35633c01e03"}}, "urls_associated": [], "network_traffic": null}]
 
 150169f8a2862e4c977fe99b4d6a1af4e2169deae6d76d64434af35633c01e03 Indicators Report
 
-This report summarizes the indicators of the SHA256 hash 150169f8a2862e4c977fe99b4d6a1af4e2169deae6d76d64434af35633c01e03. The file associated with this hash is a 11867648 byte executable file named "fuckme55.exe" first seen on 2023-06-28 21:19:13. The origin country associated with this file is LU.
+This report is based on the analysis of a file with the SHA256 hash of 150169f8a2862e4c977fe99b4d6a1af4e2169deae6d76d64434af35633c01e03, first seen on 2023-06-28 21:19:13. The file was named fuckme55.exe, had a file size of 11867648 bytes, and was identified as a type of application/x-dosexec. It was reported by ULTRAFRAUD and was determined to have originated from the country of LU. 
 
-The file has been identified as malicious activity by ULTRAFRAUD and is associated with the signature "AgentTesla". The file has been tagged with "AgentTesla" and "exe" and has been identified as SecuriteInfo.com.Win32.DropperX-gen.2450.7023.UNOFFICIAL by ClamAV.
+The signature associated with this file was AgentTesla, and it had an imphash of f34d5f2d4577ed6d9ceec516c1f5a744. It also had a TLSSH hash of T163C6332C4E98BBEEE7A15D7922F20529E7D97513CA57EBDFCEC8365001227C4EB19084 and an SSDeep hash of 196608:ChTb9B0BPrDz4pxgZZPy5RmStgxb/z6FDiSJXqeUh4mT+uFk8spbVgo87e8YU:sTb9epDz4MZZ4RmxYDiScfhHjeV+vK8Y.
 
-The file has been downloaded 257 times and uploaded once. It has been identified as quasar malware by ANY.RUN and CERT-PL_MWDB. The analysis URL for the file is https://app.any.run/tasks/43026e83-5f8d-4d99-9393-c700315ef6c0.
+The intelligence associated with this file revealed that it was detected by ClamAV as SecuriteInfo.com.Win32.DropperX-gen.2450.7023.UNOFFICIAL, with 257 downloads and 1 uploads. There were also vendor intel sources that identified the malware family as Quasar.
 
-This file is of interest because it has been identified as malicious by multiple sources, has been tagged with multiple tags, and has been downloaded and uploaded frequently.
+Overall, this file appears to be a malicious executable, potentially associated with the Quasar malware family. It has been seen multiple times, and is likely to continue to be seen in the wild. It is important to monitor for this file and take appropriate action to protect networks and systems from it.

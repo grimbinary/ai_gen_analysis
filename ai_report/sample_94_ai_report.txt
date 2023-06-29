@@ -1,11 +1,7 @@
 Indicators Report: 13a43acaf411468a1ddfa5f221464f0ead5221a8694bb1027273206ecfa2e336
 
-This report is based on the sha256_hash of the file 13a43acaf411468a1ddfa5f221464f0ead5221a8694bb1027273206ecfa2e336 which was first seen on 2023-06-28 13:16:52. The file is an executable with a size of 313856 bytes and is identified as Smoke Loader. The origin country of the file is US and it was reported by andretavare5.
+This report is based on the given SHA256 hash of 13a43acaf411468a1ddfa5f221464f0ead5221a8694bb1027273206ecfa2e336. The file was first seen on 2023-06-28 13:16:52 and was named “file” with a file size of 313856 bytes, and a file type of application/x-dosexec. The reporter was andretavare5 and the origin country was the United States. The file was identified as Smoke Loader, with an imphash of bf2fa62dfdc43c5588f7d5224cb9e043, a TLSh of T16164093392B17C50E5268B32DE1EC6E87F5EF6538F5977A622189A6F05B01B2C273710, and an ssdeep of 3072:0KVlHRxm2zum769pbIcJrRAthu9ezs2NXa01ETSefwbZnrRO2/uFuRKx:/HfV/769pbDRAtyosjEnr. The delivery method was web_drive-by and the tags associated with the file were exe and Smoke Loader.
 
-The file contains the following tags: exe, Smoke Loader. It was delivered via web_drive-by and has been identified by several intelligence sources, including ClamAV, URLhaus, and CAPE. It has been downloaded 252 times and uploaded 2 times.
+The intelligence associated with this file included a ClamAV signature of SecuriteInfo.com.Trojan.DownLoader45.59325.28456.7088.UNOFFICIAL, 252 downloads, 2 uploads, and no mail. The file information included a context of dropped_by_malware and a value of PrivateLoader, a URLhaus link of https://urlhaus.abuse.ch/url/2672592/, and a CAPE link of https://www.capesandbox.com/analysis/403459/. No OLE information or Yara rules were associated with the file.
 
-The file information includes the context of "dropped_by_malware" with the value "PrivateLoader" and the URLhaus URL of "https://urlhaus.abuse.ch/url/2672592/". Additionally, the file has been identified by Cape Sandbox with the URL "https://www.capesandbox.com/analysis/403459/".
-
-The file has also been identified by the Vendor Intel provider, ANY.RUN, as a malicious file belonging to the Smoke family.
-
-The most interesting aspect of this file is that it has been identified by multiple intelligence sources as malicious, and has been downloaded and uploaded numerous times. This indicates that this particular file is widely distributed and is likely to be used in malicious activities.
+The most interesting aspects of this report are the ClamAV signature, which indicates that the file is a Trojan downloader, and the URLhaus link, which could provide valuable information about the origin of the file. The delivery method, web_drive-by, also suggests that the file was likely acquired through malicious means.

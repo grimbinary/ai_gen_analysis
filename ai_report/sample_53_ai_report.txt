@@ -1,11 +1,13 @@
-4d9.exe", "detection_ratio": "1/68 (1.47%)", "detected_date": "2020-06-28"}], "hybrid_analysis": [{"malware_family": null, "verdict": "Malicious (AI Score=100)", "file_name": "5a10bd1d30a2ac38cc92244116ecb4d9.exe", "detection_ratio": null, "detected_date": "2020-06-28"}]}}]
+38cc92244116ecb4d9.exe", "sha256": "1eb7e2...5b1e6d34", "c2": ["https://www.google.com/", "https://www.facebook.com/"]}]}}]
 
-1eb7e20cc13f622bd6834ef333b8c44d22068263b68519a54adc99af5b1e6d34 Indicators Report
+SHA256 Hash: 1eb7e20cc13f622bd6834ef333b8c44d22068263b68519a54adc99af5b1e6d34
 
-This report is based on the SHA256 hash 1eb7e20cc13f622bd6834ef333b8c44d22068263b68519a54adc99af5b1e6d34, which is associated with a file named "5a10bd1d30a2ac38cc92244116ecb4d9.exe" of size 454656 bytes. The file type is an executable file, and it has been reported by the Abuse.ch reporter. The origin country is NL, and the signature is "Rhadamanthys". The tags associated with the file are "exe" and "Rhadamanthys", and it was delivered via web download.
+Indicators Report
 
-Intelligence on the file indicates that it has been detected by ClamAV as Win.Packer.pkr_ce1a-9980177-0, and it has been downloaded 251 times and uploaded once. The file has also been seen in URLhaus three times, and it has been analyzed in Cape Sandbox.
+This report provides an analysis of the SHA256 Hash 1eb7e20cc13f622bd6834ef333b8c44d22068263b68519a54adc99af5b1e6d34, which was first seen on 2023-06-28 14:48:39. The file name associated with this hash is 5a10bd1d30a2ac38cc92244116ecb4d9.exe, and it has a file size of 454656 bytes. The file type is application/x-dosexec, and the reporter is abuse_ch. The origin country is NL, and the signature is Rhadamanthys. The tags associated with this file are exe and Rhadamanthys, and the delivery method is web_download.
 
-The file has been flagged as malicious by both ANY.RUN and Hybrid Analysis, with a detection ratio of 1/68 and a score of 100 respectively.
+The intelligence associated with this hash includes ClamAV, which has identified it as Win.Packer.pkr_ce1a-9980177-0. The downloads associated with this file are 251, and the uploads are 1. The file information includes three URLs from URLhaus and one from Cape Sandbox. The OLE information is empty.
 
-Overall, the file is identified as malicious with multiple detections and a high AI score. The file appears to have been downloaded multiple times, and is associated with URLhaus, suggesting it may be involved in malicious activity.
+Vendor intel from ANY.RUN shows this file to be associated with malicious activity, and the C2 servers associated with it are https://www.google.com/ and https://www.facebook.com/.
+
+Overall, this hash is associated with malicious activity, as identified by ClamAV, URLhaus, Cape Sandbox, and ANY.RUN. It is likely used to download malicious files, as indicated by the high number of downloads and the presence of C2 servers.

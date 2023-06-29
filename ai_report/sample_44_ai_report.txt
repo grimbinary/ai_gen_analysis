@@ -1,9 +1,10 @@
+/"}]}}]
+
 SHA256_c79d5c1b10a3c1959755ab98a2c097c00544e6f42e108df002f48cf2d9d9baa8 Indicators Report
+The provided information is related to a file with the SHA256 hash of c79d5c1b10a3c1959755ab98a2c097c00544e6f42e108df002f48cf2d9d9baa8. It was first seen on 2023-06-28 15:06:11 and is an executable file (file_type: exe) with a file size of 1466680 bytes. It has been reported by the user jstrosch from the US and is associated with the signature Amadey. It has been tagged as Amadey and exe and was likely delivered via web download.
 
-This report provides an analysis of the file identified by the SHA256 hash of c79d5c1b10a3c1959755ab98a2c097c00544e6f42e108df002f48cf2d9d9baa8. It was first seen on 2023-06-28 15:06:11 and has a file size of 1466680 bytes. The file type is an executable (exe) and was reported by the user jstrosch. It originated in the United States and has been identified as the malware family “Amadey”.
+Intelligence related to this file includes Clamav having identified it as SecuriteInfo.com.FileRepMalware.13250.6664.UNOFFICIAL, with 257 downloads and 1 upload. It has an Imphash of e91a73dafe4345072bd74b1c734e5f37, a TLSH of T1DF655A313F879027CA610072F73CDA5A3678AF621B6384CF9BE479BD44B18C15379A66, a DHASH Icon of f1cc868e9a96c4f0, and an SSDeep of 24576:EhZDSdKu3HdjN4STH/EFaeN5CJ7FR5fuudV3+nLyo85f4Qy:EhZGd/jN4STH/UfCJBR5mudV3+nLyo8e.
 
-The file was delivered via web download and has been identified by multiple sources as malicious. Clamav identified the file as “SecuriteInfo.com.FileRepMalware.13250.6664.UNOFFICIAL” and Any.Run identified it as “arkei”. It has been downloaded 257 times and uploaded once.
+The file is also associated with a Yara Rule named PE_Digital_Certificate, authored by albertzsigovits, and Vendor Intel from ANY.RUN, which identified it as malware family arkei with malicious activity. The file name was identified as https://boraflow.click and the analysis URL was https://app.any.run/tasks/78e478f3-4631-48a2-bcf3-1b745fe1baa2.../.
 
-The file also contains an imphash, tlsh, and ssdeep values, as well as a dhash_icon. Additionally, it has been identified by Yara rule “PE_Digital_Certificate”.
-
-Overall, this file appears to be malicious and has been identified as such by multiple sources. It has been downloaded numerous times and uploaded once, indicating it is likely part of a larger malware campaign.
+Overall, this file appears to be malicious, as indicated by its tags, signatures, and intelligence. It is associated with a specific Yara Rule and was identified by Vendor Intel as a malicious family.

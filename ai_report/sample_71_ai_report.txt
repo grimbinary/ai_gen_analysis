@@ -1,11 +1,11 @@
-/analysis/1438650/"}]}}]
+/analysis/403564/"}]}}]
 
-SHA256 Hash: 4c7f2c17444f07009a936d5db0f1c500fbe8b7ced5a0565fef7df5df039f770c
+SHA256_Hash: 4c7f2c17444f07009a936d5db0f1c500fbe8b7ced5a0565fef7df5df039f770c Indicators Report
 
-Indicators Report:
+This report provides a summary of the indicators associated with the SHA256 Hash 4c7f2c17444f07009a936d5db0f1c500fbe8b7ced5a0565fef7df5df039f770c. The file associated with this hash is Acrobat.Pro.2023.x32.exe, which is a type of application/x-dosexec file and has a file size of 1814016 bytes. It was first seen on 2023-06-28 14:30:10 and was reported by 0xToxin, who identified it as originating from IL.
 
-This report is based on the information provided for the SHA256 hash 4c7f2c17444f07009a936d5db0f1c500fbe8b7ced5a0565fef7df5df039f770c. The file name is Acrobat.Pro.2023.x32.exe, the file size is 1814016, and the file type is application/x-dosexec (exe). It was first seen on 2023-06-28 14:30:10 and it is reported by 0xToxin from IL. It has an imphash of fc35a0089284ff9c7c45866438ea8a25, a TLSH of T1C885D042E3CD8391CA325233F976AE256E7B3D3549B0F15F1F88353DAA72262411E563, and a SSDeep of 24576:94lavt0LkLL9IMixoEiUdtRsu9lb0zX0DkOou268noAgCl3KF4LnPoY:Ukwkn9IM1UdtRl0zX0DkOjz8o1ww4E. The tags associated with this file are bjkataraedu-in, exe, and WebShellNirsoft.
+The imphash of this file is fc35a0089284ff9c7c45866438ea8a25, and it has been identified as a compiled AutoIT script according to the Yara rule "AutoIT_Compiled" by @bartblaze. It has also been identified by ClamAV as SecuriteInfo.com.VBS.Dropper-4.UNOFFICIAL. Additionally, this file has been tagged with "bjkataraedu-in", "exe", and "WebShellNirsoft".
 
-The delivery method and signature are both unknown. The intelligence associated with this file includes ClamAV identifying it as SecuriteInfo.com.VBS.Dropper-4.UNOFFICIAL, 244 downloads, 1 upload, and no mail. It has been analyzed by ANY.RUN, and the verdict is No threats detected.
+The intelligence associated with this file indicates that it has been downloaded 244 times and uploaded 1 time. It has also been analyzed by Any.Run, who found that it contains no threats.
 
-The most interesting aspect of this report is the fact that the file has been identified as SecuriteInfo.com.VBS.Dropper-4.UNOFFICIAL by ClamAV, despite the unknown delivery method. This indicates that the file may be malicious and should be handled with caution.
+Overall, this file has been identified as a potentially malicious compiled AutoIT script, as indicated by its imphash and Yara rule, and its intelligence indicates that it has been downloaded and uploaded to the internet.

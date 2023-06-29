@@ -1,13 +1,11 @@
-E25023.exe", "first_seen": "2023-06-28 13:10:35", "last_seen": "2023-06-28 13:52:33", "country": "US", "reporter": "James_inthe_box"}]}}]
+2d.exe", "first_seen": "2023-06-28 13:10:35", "last_seen": "2023-06-28 13:52:33", "sha256_hash": "4bd7ab79686898a6011d44203b4d8326e6ff6d6db0f7b0a4672bb8efd0dd4451"}]}}]
 
-4bd7ab79686898a6011d44203b4d8326e6ff6d6db0f7b0a4672bb8efd0dd4451 Indicators Report
+Indicators Report - 4bd7ab79686898a6011d44203b4d8326e6ff6d6db0f7b0a4672bb8efd0dd4451
 
-This report is based on information about the file with the SHA256 hash of 4bd7ab79686898a6011d44203b4d8326e6ff6d6db0f7b0a4672bb8efd0dd4451. The file is known as OOLU271690625023.exe and is an executable file type with a size of 750592 bytes. It was first seen on 2023-06-28 13:10:35 and was reported by James_inthe_box from the United States.
+This report summarizes the most interesting aspects of the provided information for the given SHA256 Hash 4bd7ab79686898a6011d44203b4d8326e6ff6d6db0f7b0a4672bb8efd0dd4451. The file in question is named OOLU271690625023.exe, is of type application/x-dosexec, and is 750592 bytes in size. The file was first seen on 2023-06-28 13:10:35 and was last seen on 2023-06-28 13:52:33.
 
-The signature of the file is Formbook, which is a type of malware, and the imphash is f34d5f2d4577ed6d9ceec516c1f5a744. It has been identified by two Yara rules: pe_imphash and Skystars_Malware_Imphash.
+The file has been identified as malicious by the reporter James_inthe_box, and the signature Formbook has been attributed to it. The file has been tagged as an .exe file and Formbook. The delivery method of the file is other, and it has been identified by the ClamAV engine as SecuriteInfo.com.Variant.Barys.5639.16104.16048.UNOFFICIAL. The file has been downloaded 254 times and uploaded 3 times.
 
-The file has been identified as malicious by ClamAV, with the verdict of SecuriteInfo.com.Variant.Barys.5639.16104.16048.UNOFFICIAL. It has also been identified as malicious by the vendor intel ANY.RUN, with the verdict of Malicious activity.
+The Imphash of the file is f34d5f2d4577ed6d9ceec516c1f5a744, the Tlsh is T15AF42B7C24BA1326D072D6BF8FD3F452B678B86A7290E91758C6138A2752B1135C363F, and the Ssdeep is 12288:u3RHL/NW7msqIq030ORW3a8RJLdiGWiWuhqbTbBAV24AD:u3RHL/NW7msqx0EcALLduBA81. The file has also been identified as malicious by the vendor intel ANY.RUN, which has attributed the malware family Formbook to it.
 
-The file has been downloaded 254 times and uploaded 3 times. It has also been analyzed by Cape Sandbox, with the results available at https://www.capesandbox.com/analysis/403458/.
-
-Overall, this file is a known malicious executable that has been identified as Formbook malware. It has been downloaded and uploaded multiple times and has been identified by multiple sources as malicious.
+Overall, the information provided for this file indicates that it is a malicious file that has been identified as Formbook and is of type application/x-dosexec. It has been downloaded and uploaded multiple times and has been identified

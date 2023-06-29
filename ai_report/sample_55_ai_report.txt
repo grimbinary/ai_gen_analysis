@@ -1,7 +1,9 @@
-Title: 8c7fa17fbd493ee5c1c6cfc4fb662e20ff8f5e41c189808a5fc7d666ce625fe5 Indicators Report
+SHA256_8c7fa17fbd493ee5c1c6cfc4fb662e20ff8f5e41c189808a5fc7d666ce625fe5 Indicators Report
 
-This report provides a summary of the information provided regarding the SHA256 Hash 8c7fa17fbd493ee5c1c6cfc4fb662e20ff8f5e41c189808a5fc7d666ce625fe5. This hash is associated with a file named eb43687f6f0fcffa1aa33ac8f39cb3a7, which was first seen on 2023-06-28 14:48:17. The file is a 708608-byte executable (exe) file and has been reported by zbetcheckin, originating from France. The signature associated with the file is AgentTesla and its Imphash is f34d5f2d4577ed6d9ceec516c1f5a744.
+The provided information is related to a file with a SHA256_hash of 8c7fa17fbd493ee5c1c6cfc4fb662e20ff8f5e41c189808a5fc7d666ce625fe5, which was first seen on June 28th, 2023 at 14:48:17. The file is an executable (“exe”) with a file size of 708608 bytes, with an MD5 hash of eb43687f6f0fcffa1aa33ac8f39cb3a7. The reporter is "zbetcheckin" and the origin country is France (FR). The signature of the file is "AgentTesla", and the file is tagged as 32, AgentTesla, exe, and trojan. The delivery method is web_download.
 
-The file has been classified by various intelligence services as a Trojan, and has been identified by the URLhaus and Cape Sandbox services. It also has two associated Yara rules, pe_imphash and Skystars_Malware_Imphash. Lastly, the file is associated with Vendor Intel from ANY.RUN, which includes 246 downloads and 1 upload.
+The intelligence associated with the file includes ClamAV detecting it as SecuriteInfo.com.Trojan.PackedNET.2142.16810.3111.UNOFFICIAL, as well as 246 downloads and 1 upload. The file also has an imphash of f34d5f2d4577ed6d9ceec516c1f5a744, a Tlsh of T117E4193C677D9A22C034C6B9CED184B3F2559F3AB411D522588A7BB56722B921DC333E, and an ssdeep of 12288:Scj6uvyhWqCZo8J+qrJq/bBALcvrHV2qN8k4lVu7MytBEBy4:f3q8qCjrJkb8cQqxkeMytBEX.
 
-Overall, this file appears to be a malicious executable that has been identified by multiple intelligence services as a Trojan. It is associated with two Yara rules and Vendor Intel from ANY.RUN, indicating it is part of a larger malicious campaign.
+The file information includes a URLhaus URL of https://urlhaus.abuse.ch/url/2673430/, and a Cape Sandbox analysis of https://www.capesandbox.com/analysis/403586/. Additionally, the file is associated with Yara rules “pe_imphash” and “Skystars_Malware_Imphash”. Finally, the file is associated with vendor intel from ANY.RUN.
+
+Overall, this file appears to be a malicious executable with the signature “AgentTesla” and a number of associated intelligence and vendor intel sources.

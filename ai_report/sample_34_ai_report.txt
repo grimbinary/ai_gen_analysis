@@ -1,0 +1,9 @@
+Report Title: f9f1b8511b6a2f81a35a80fff4880d38fa00c30b10ebb5aecccbfcfb1ff086af Indicators Report
+
+This report provides an analysis of the indicators associated with the file "Echelon.exe" with the SHA256 hash of f9f1b8511b6a2f81a35a80fff4880d38fa00c30b10ebb5aecccbfcfb1ff086af. The file is an executable of size 606,720 bytes, with a MD5 hash of 42c949896f36865721df77cebebd9705 and an Imphash of f34d5f2d4577ed6d9ceec516c1f5a744. It was first seen on 2023-06-28 16:36:27, and was reported by an anonymous user from Hungary.
+
+The file is associated with two Yara rules, both of which are related to suspicious activities. Specifically, the first rule "INDICATOR_SUSPICIOUS_EXE_References_Confidential_Data_Store" is designed to detect executables referencing confidential data stores found in browsers, mail clients, cryptocurrency wallets, etc. The second rule "INDICATOR_SUSPICIOUS_EXE_References_Cookies_Stores" is designed to detect executables referencing cookie stores.
+
+The file has been identified by ClamAV as Win.Packed.GrandSteal-9783630-1. It has been downloaded 271 times and uploaded 1 time.
+
+The most interesting aspect of this report is the presence of two Yara rules associated with the file, which suggest that it may have been created with the intent of stealing confidential data or cookie stores. Additionally, the file has been identified by ClamAV as a malicious file, and has been downloaded 271 times and uploaded 1 time.

@@ -1,13 +1,5 @@
 76d30586c345897b9722866c7f2f5f98f55a98228a1ec16bc020ee9ad03ba42e Indicators Report
 
-This report provides a summary of the indicators gathered from the analysis of the file 76d30586c345897b9722866c7f2f5f98f55a98228a1ec16bc020ee9ad03ba42e. The file was first seen on 2023-06-28 14:49:21 and is named 6c805a6db0954cedf39a5637ffa48fd9.exe. It is an executable file type with a size of 8192.
+The provided information relates to a file with the SHA256 hash of 76d30586c345897b9722866c7f2f5f98f55a98228a1ec16bc020ee9ad03ba42e. This file was first seen on 2023-06-28 14:49:21, and has a file name of 6c805a6db0954cedf39a5637ffa48fd9.exe, a file size of 8192, and a file type of application/x-dosexec. The reporter is abuse_ch, and the origin country is NL. The signature is ShortLoader. The delivery method is web_download, and the intelligence reveals that the file has been downloaded 252 times and uploaded 1 time. The file information includes a link to a CAPE analysis, and a URLhaus link. Yara rules have been identified for the file, including MALWARE_Win_DLInjector04, pe_imphash, and shortloader. No OLE information was provided.
 
-The file has been identified with the signature 'ShortLoader' and has been reported by the reporter 'abuse_ch'. It originates from the country NL. Tags associated with the file include 'exe' and 'ShortLoader'. The delivery method of the file was web_download.
-
-Intelligence gathered from the file includes ClamAV detections of 'Win.Packed.Msilzilla-9910623-0' and 'Win.Packed.Tiny-9879243-0'. The file has been downloaded 252 times and uploaded once.
-
-File information includes a CAPE analysis at https://www.capesandbox.com/analysis/403589/. URLhaus also reports the file at https://urlhaus.abuse.ch/url/2665390/.
-
-Notable hashes associated with the file include SHA256, SHA3_384, SHA1, MD5, Imphash, TLSH, and SSDeep. Yara rules associated with the file include 'MALWARE_Win_DLInjector04', 'pe_imphash', and 'shortloader'.
-
-No OLE information was found associated with the file. No vendor intel was applicable.
+This file appears to be a malicious executable, likely a downloader or injector, as indicated by the signature and Yara rules. It has been observed in the Netherlands, and has been downloaded and uploaded multiple times.

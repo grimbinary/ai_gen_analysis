@@ -1,0 +1,17 @@
+6c6b-e7a5-6f0c3c3e7d94"}]}}]
+
+SHA256 Hash: d73dbd022ae04284c10281b7aad42b0b80d45deec6beee79858e635a43627f65
+
+Indicators Report
+
+This report summarizes the most interesting aspects of the provided information regarding the SHA256 hash d73dbd022ae04284c10281b7aad42b0b80d45deec6beee79858e635a43627f65. The associated data includes the First Seen, File Name, File Size, File Type, Reporter, Origin Country, Signature, Tags, Delivery Method, Intelligence, File Information, OLE Information, and Vendor Intel.
+
+The file associated with the hash is “file.exe”, a 380,432 byte application/x-dosexec. It was first seen on 2023-06-28 14:19:36 and reported by Abuse_ch, with the origin country listed as NL. The signature associated with the file is Meterpreter, and the tags associated with it are “exe” and “Meterpreter”. The delivery method is unknown.
+
+The intelligence associated with the file includes ClamAV detections “Win.Dropper.Formbook-9993903-0”, “Win.Packed.Cerbu-9993871-0”, “Win.Packed.Formbook-9980347-1”, and “Win.Packed.Generic-6680913-0”; 236 downloads and 1 upload; and no associated mail. A single file information entry is associated with the hash, linking to a CAPE analysis of the file. There is no OLE information associated with the file, and the vendor intel associated with it is from ANY.RUN, indicating malicious activity.
+
+The Yara rules associated with the file are “BAZT_B5_NOCEXInvalidStream” with no author, description, or reference.
+
+Overall, the file associated with the SHA256 hash d73dbd022ae04284c10281b7aad42b0b80d45deec6beee79858e635a43627f65 is a 380,432 byte application/x-dosexec, with the signature Meterpreter and tags “exe” and “Meterpreter”. It has been reported by Abuse_ch and is associated with ClamAV detections, 236 downloads, and 1 upload. It has been flagged as malicious activity by ANY.RUN.
+
+d73dbd022ae04284c10281b7aad42b0b80d45

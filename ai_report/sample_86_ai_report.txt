@@ -1,5 +1,11 @@
-}
+/"}]}}]
 
-The SHA256 Hash for this report is "ab8674f0baf9cc51bdb639626664be6917a3682aa7ea25b7c233b673800513b0". This file was first seen on 2023-06-28 14:18:36 and is named "file.exe" with a file size of 670736 bytes. The file type is an application/x-dosexec and was reported by Abuse_CH with its origin country being NL. The signature for this file is QuasarRAT with tags including "exe", "QuasarRAT", and "RAT". Delivery method and intelligence are also provided. The file information contains a link to CAPE for further analysis. No OLE information is provided. Vendor Intel from ANY.RUN reveals that the malware family is Quasar and the verdict is malicious activity. 
+Report:
 
-This Indicators Report is noteworthy due to the presence of multiple hashes, the signature of QuasarRAT, and the vendor intel from ANY.RUN. In particular, the presence of multiple hashes allows for more comprehensive analysis of the file. The signature of QuasarRAT further indicates that the file is malicious. The vendor intel from ANY.RUN provides more detailed information about the malicious activity.
+SHA256_Hash: ab8674f0baf9cc51bdb639626664be6917a3682aa7ea25b7c233b673800513b0 Indicators Report
+
+This report details the indicators associated with the file identified by the SHA256 Hash: ab8674f0baf9cc51bdb639626664be6917a3682aa7ea25b7c233b673800513b0. The file was first seen on 2023-06-28 14:18:36. It is an executable file named file.exe, with a size of 670736 bytes. It was reported by abuse_ch and originates from the Netherlands. The signature associated with the file is QuasarRAT, and the tags associated with the file are "exe", "QuasarRAT", and "RAT".
+
+The Delivery Method is unknown, and the file has been identified in intelligence sources such as Clamav, Downloads, and Uploads. The file is also associated with vendor intel from ANY.RUN, where it is identified as a QuasarRAT malware family with a verdict of Malicious Activity.
+
+Overall, this file is associated with multiple indicators that suggest malicious activity, and it should be handled with caution.

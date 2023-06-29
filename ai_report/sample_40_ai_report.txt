@@ -1,0 +1,9 @@
+Bitcoin address", "reference": "https://didierstevens.com/"}], "vendor_intel": [{"vendor": "Palo Alto Networks", "description": "RedLine Stealer Malware"}]}]
+
+SHA256 Hash: 94ae480fad3a5edf43781bb4a357f95147c67cfd8ac71fc3540f61d0931c5376
+
+Indicators Report
+
+This report provides a summary of the information provided on a SHA256 hash of 94ae480fad3a5edf43781bb4a357f95147c67cfd8ac71fc3540f61d0931c5376. The file was first seen on 2023-06-28 15:53:19 and was named file. It had a file size of 1981736 bytes, a type of application/x-dosexec, and was reported by andretavare5 from the United States. The signature associated with this file was RedLineStealer, and it contained tags of "exe" and "RedLineStealer". Delivery methods for this file include web_drive-by. Intelligence associated with the file includes ClamAV detection of SecuriteInfo.com.Win32.PWSX-gen.20744.26740.UNOFFICIAL, 264 downloads and 1 upload. The file information includes context of "dropped_by_malware" with a value of "PrivateLoader" and a CAPE link to https://www.capesandbox.com/analysis/403601/. Yara rules associated with the file include BAZT_B5_NOCEXInvalidStream, BitcoinAddress, and Palo Alto Networks provided a description of "RedLine Stealer Malware".
+
+This file appears to be a malicious executable with a signature of RedLineStealer, which is associated with malware. It has been downloaded 264 times and uploaded once, and is associated with two Yara rules. It has been detected by ClamAV as SecuriteInfo.com.Win32.PWSX-gen.20744.26740.UNOFFICIAL and has a CAPE link to further analysis. It has also been identified by Palo Alto Networks as RedLine Stealer Malware. There are no OLE information associated with the file.

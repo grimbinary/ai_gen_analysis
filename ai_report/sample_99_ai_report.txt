@@ -1,9 +1,11 @@
-_crypto", "author": "dangtranhoang", "description": "Detects MSIL malware using a simple crypto algorithm", "reference": "https://github.com/dangtranhoang/yara-rules"}], "vendor_intel": [{"context": "URLhaus", "value": "https://urlhaus.abuse.ch/url/2673300/"}]}]
+_compression_zlib", "author": "dr4k0nia", "description": "Detects compressed MSIL code, usually used to hide malicious code", "reference": "https://github.com/dr4k0nia/yara-rules"}], "vendor_intel": []}]
 
-Report: SHA256_8b2a9586bcf26045ba196d4714d8c628feb5d8eed4604ff82c6e3625b67a9437 Indicators Report
+Report Title: 8b2a9586bcf26045ba196d4714d8c628feb5d8eed4604ff82c6e3625b67a9437 Indicators Report
 
-This report provides an overview of the indicators associated with the SHA256_8b2a9586bcf26045ba196d4714d8c628feb5d8eed4604ff82c6e3625b67a9437 file. The file was first seen on 2023-06-28 10:28:42 and is a 712704 byte executable file named SecuriteInfo.com.Win32.PWSX-gen.6198.31692. It has been reported by SecuriteInfoCom from France and has been tagged with AgentTesla and exe. It has been identified as a malicious file by ClamAV and has been downloaded 293 times and uploaded once. The file also has an imphash of f34d5f2d4577ed6d9ceec516c1f5a744, a TLSh of T15AE4283C5B7D9A22C034C6B5CED584B3F2558F3AB411D922588A7BB52762B921DC333E, and an SSDeep of 12288:scj6T4Wg0tfComaiEkDoxx7UorpMRlr46Nwa+e:5UZvNC/yxx7UeOlE6.
+This report summarizes the most interesting aspects of the provided information related to the SHA256 Hash 8b2a9586bcf26045ba196d4714d8c628feb5d8eed4604ff82c6e3625b67a9437. This file was first seen on 2023-06-28 10:28:42 and has a file name of SecuriteInfo.com.Win32.PWSX-gen.6198.31692, a file size of 712704, and a file type of application/x-dosexec. It was reported by SecuriteInfoCom and is believed to originate from France. The signature associated with this file is AgentTesla, and it is tagged as such. It is believed to have been delivered via a web download.
 
-The file has been identified as malicious by ClamAV and has been linked to URLhaus and Cape Sandbox. Furthermore, two Yara rules have been identified that are related to the file - MSIL_SUSP_OBFUSC_XorStringsNet and msil_susp_..._crypto. The file also has a vendor intel associated with it from URLhaus.
+According to the intelligence provided, this file has been downloaded 293 times and uploaded 1 time. It is also associated with two Yara rules, MSIL_SUSP_OBFUSC_XorStringsNet and msil_susp_..._compression_zlib, which are designed to detect XorStringsNET string encryption and compressed MSIL code, respectively.
 
-Overall, the SHA256_8b2a9586bcf26045ba196d4714d8c628feb5d8eed4604ff82c6e3625b67a9437 file is a malicious executable file that has been identified by multiple sources. It has been linked to URLhaus and Cape Sandbox and has two Yara rules associated with it. It has also been downloaded 293 times and uploaded once.
+This file is associated with two hashes, an SHA256 Hash, an SHA3_384 Hash, an SHA1 Hash, and an MD5 Hash. It also has an Imphash, a TLSh, and a DHash_Icon. No Telfhash, GimpHash, or Vendor Intel was found.
+
+Overall, this file is believed to be malicious due to its signature, AgentTesla, and its associated Yara rules, which are designed to detect malicious code. It is also believed to have been delivered via a web download, which is often associated with malicious files.

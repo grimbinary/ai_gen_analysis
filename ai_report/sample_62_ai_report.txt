@@ -1,9 +1,11 @@
-}], "vendor_intel": {}}]
+}, {...}], "vendor_intel": [{"name": "VirusTotal", "link": "https://www.virustotal.com/gui/file/c15796facdf9378bda2c0a972f8650e58cd3e35e582548c18bc70d046a55d520/details"}]}
 
-C15796FACDF9378BDA2C0A972F8650E58CD3E35E582548C18BC70D046A55D520 Indicators Report
+c15796facdf9378bda2c0a972f8650e58cd3e35e582548c18bc70d046a55d520 Indicators Report
 
-This report provides an analysis of the SHA256 hash “c15796facdf9378bda2c0a972f8650e58cd3e35e582548c18bc70d046a55d520”. The file was first seen on 2023-06-28 14:41:41, with a file name of “54583393f5b39d6f0765d4a54e372e0b.exe”, a file size of 321024, and a file type of “application/x-dosexec”. The reporter is listed as “abuse_ch”, and the origin country is listed as “NL”. The signature is “Fabookie”, and the delivery method is “web_download”.
+This report provides an analysis of the suspicious file c15796facdf9378bda2c0a972f8650e58cd3e35e582548c18bc70d046a55d520. It was first seen on 2023-06-28 14:41:41 and is an executable file (exe) of size 321024 bytes. The file was reported to Abuse_ch and originates from the Netherlands. The signature for the file is Fabookie, and it has been tagged as “exe” and “Fabookie”. It was likely delivered via web download.
 
-The Intelligence section contains information about downloads (235) and uploads (1). The File Information section contains a URLhaus link and a Cape Sandbox link. The Yara Rules section contains several rules, including one that detects executables containing SQL queries to confidential data stores.
+The intelligence associated with this file indicates it was detected as “SecuriteInfo.com.Win64.Trojan-gen.26553.2185.UNOFFICIAL” by ClamAV, with 235 downloads and 1 upload. File information is available from URLhaus and Cape Sandbox.
 
-The most interesting aspect of this report is the high number of downloads, indicating that this file is likely malicious and widely distributed. Additionally, the Yara Rule for detecting executables containing SQL queries to confidential data stores is noteworthy, as this could indicate that the file is an infostealer.
+The file is associated with a number of Yara rules, including “INDICATOR_SUSPICIOUS_EXE_SQLQuery_ConfidentialDataStore”, which detects executables containing SQL queries to confidential data stores. This is often seen in infostealers. Vendor intel is available from VirusTotal.
+
+Overall, this file is likely malicious due to its signature, tags, and intelligence associated with it. It is associated with several Yara rules that indicate it may be an infostealer and should be handled with caution.

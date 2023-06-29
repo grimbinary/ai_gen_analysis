@@ -1,7 +1,9 @@
-9055ea/analysis"}}}]
+/analysis"}}}]
 
 0c64b59284544f5b6999190a45541c39fb90eedb648a28825d02e06b939055ea Indicators Report
 
-This report summarizes the most interesting aspects of the provided information about a malicious executable file with the SHA256 hash of 0c64b59284544f5b6999190a45541c39fb90eedb648a28825d02e06b939055ea. The file was first seen on 2023-06-28 21:23:55, is 8648704 bytes in size, and is of type “application/x-dosexec”. It was reported by ULTRAFRAUD, is of origin country LU, and has been identified as AgentTesla. It has been tagged with “AgentTesla” and “exe”, and has been downloaded 321 times and uploaded 2 times.
+This report summarizes the most interesting aspects of the provided information regarding the SHA256 Hash 0c64b59284544f5b6999190a45541c39fb90eedb648a28825d02e06b939055ea. This file, named “seee.exe” was first seen on 2023-06-28 21:23:55, is 8648704 bytes in size, and is of type “application/x-dosexec”. It was reported by ULTRAFRAUD, and has an origin country of LU. The signature associated with the file is “AgentTesla”, and it has been tagged as “AgentTesla” and “exe”. No delivery method or intelligence has been provided.
 
-The most interesting aspect of this file is that it has been identified as AgentTesla malware. This malware is typically used to steal sensitive information and is often distributed through phishing emails, malicious websites, and malicious downloads. Additionally, the file has been identified by ANY.RUN as asyncrat malware, and has been analyzed by CERT-PL_MWDB. These observations indicate that the file is likely a malicious executable and should be avoided.
+The File Information section contains a link to the CAPE sandbox analysis of the file, while the Vendor Intel section includes a link to the CERT-PL MWDB sample analysis. The file contains an Imphash of “f34d5f2d4577ed6d9ceec516c1f5a744” and has been identified as “SecuriteInfo.com.Win32.DropperX-gen.17940.9513.UNOFFICIAL” by ClamAV. According to ANY.RUN, the file has been identified as malicious with the malware family “asyncrat”. It has been downloaded 321 times and uploaded 2 times.
+
+Notable patterns or observations include the file origin country of LU, the signature “AgentTesla”, the malware family “asyncrat”, and the number of downloads and uploads.

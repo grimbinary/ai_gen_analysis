@@ -1,9 +1,13 @@
-/c3f47d067322b6fc8bfe11d49f1f987fb23e628dd3"}]}, "sigma_rules": [{"name": "Suspicious_PE_File_Name", "description": "Detects suspicious PE file name.", "level": "low", "status": null, "author": "@Neo23x0", "references": ["https://github.com/Neo23x0/sigma/blob/master/rules/windows/process_creation/win_susp_pe_file_name.yml"], "tags": ["process creation", "windows"], "falsepositives": [], "datasource": ["Windows Event Log"]}], "trusted": 0}]
+/acrobat.pro.2023.x64.exe"}]}}]
 
-SHA256 Hash: 71d92e20cdf124a08a5a7ac3f47d067322b6fc8bfe11d49f1f987fb23e628dd3
+SHA256_71d92e20cdf124a08a5a7ac3f47d067322b6fc8bfe11d49f1f987fb23e628dd3 Indicators Report
 
-Indicators Report:
+This report provides information on the SHA256 hash 71d92e20cdf124a08a5a7ac3f47d067322b6fc8bfe11d49f1f987fb23e628dd3, which was first seen on June 28th, 2023. The file is named Acrobat.Pro.2023.x64.exe, is 1814016 bytes in size, and has a file type of application/x-dosexec. It was reported by 0xToxin and has an origin country of IL.
 
-This report summarizes the data provided on the SHA256 Hash 71d92e20cdf124a08a5a7ac3f47d067322b6fc8bfe11d49f1f987fb23e628dd3. The file is named Acrobat.Pro.2023.x64.exe and is 1814016 bytes in size. It is an executable of type application/x-dosexec, with a SHA1 Hash of bbac693c35ef4924885ab253781a02ca2c57e09a, a SHA3_384 Hash of 3c8b293acd11e5f340deb49ef1375f65b9b312d1c6368ac7560eccc9cfc19299cab625ce076abca059fe01b506019e93, and a MD5 Hash of 17967a06f7e80a94789e43029e0c1805. The file was first seen on 2023-06-28 14:30:12.
+The file has been identified by ClamAV as a SecuriteInfo.com.VBS.Dropper-4.UNOFFICIAL. It has been downloaded 245 times and uploaded 1 time. The file has an imphash of fc35a0089284ff9c7c45866438ea8a25, a Tlsh of T1DE85D042E3CD8391CA325233F976AE256E7B3D3949B0F15F1F88353DAA72262411E563, and an ssdeep of 24576:G4lavt0LkLL9IMixoEiUdtRsu9lb0DX0DkOou268noAgCl3KF4LnPoY:Rkwkn9IM1UdtRl0DX0DkOjz8o1ww4E. It is also associated with the tags bjkataraedu-in, exe, and WebShellNirsoft.
 
-The file has been reported by 0xToxin and is believed to have originated from IL. The Imphash is fc35a0089284ff9c7c45866438ea8a25, and the TLSh is T1DE85D042E3CD8391CA325233F976AE256E7B3D3949B0F15F1F88353DAA72262411E563. The file has been tagged with "bjkataraedu-in", "exe" and "WebShellNirsoft" tags, and has been identified by ClamAV as SecuriteInfo.com.VBS.Dropper-4.UN
+According to the analysis done by ANY.RUN, the file is not a threat.
+
+The file has been identified as a compiled AutoIT script by the Yara rule "AutoIT_Compiled" authored by @bartblaze.
+
+Overall, this file has been identified as a SecuriteInfo.com.VBS.Dropper-4.UNOFFICIAL, and has been determined to be a compiled AutoIT script. It has been analyzed by ANY.RUN and determined to not be a threat.

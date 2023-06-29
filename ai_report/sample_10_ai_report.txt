@@ -1,9 +1,28 @@
 9f41e12647a3de5cd9a9567c180cd4c5f11ad8d9c82ad9d6ad64de332006499d Indicators Report
 
-This report summarizes the most interesting aspects of the provided information related to the SHA256 hash 9f41e12647a3de5cd9a9567c180cd4c5f11ad8d9c82ad9d6ad64de332006499d. This includes the file name, file size, file type, reporter, origin country, signature, tags, delivery method, intelligence, file information, OLE information, and vendor intel.
+This report summarizes the most interesting aspects of the provided information regarding the file with the SHA256 hash 9f41e12647a3de5cd9a9567c180cd4c5f11ad8d9c82ad9d6ad64de332006499d.
 
-The file is named “Loader.exe” and has a file size of 38912. The file type is “application/x-dosexec” and the origin country is Germany. The reporter is ULTRAFRAUD and the tags associated with the file are “exe”. The delivery method is unknown and the intelligence associated with the file includes ClamAV, downloads, and uploads.
+File Name: Loader.exe
+File Size: 38912
+File Type: application/x-dosexec
+Reporter: ULTRAFRAUD
+Origin Country: DE
+Tags: exe
+Delivery Method: N/A
 
-The file information includes a link to the CAPE sandbox analysis of the file. The OLE information is empty and the vendor intel includes information from ANY.RUN, CERT-PL MWDB, and YOROI. ANY.RUN reported that no threats were detected, CERT-PL MWDB did not detect any malicious activity, and YOROI reported that the file is suspicious.
+Intelligence:
+- ClamAV reports the file as SecuriteInfo.com.Win32.Trojan.PSE.1GNN9RH.18372.9121.UNOFFICIAL
+- 258 downloads and 1 upload
 
-Overall, the file appears to be suspicious and is worth further investigation.
+File Information:
+- Link to CAPE analysis: https://www.capesandbox.com/analysis/403638/
+
+Vendor Intel:
+- ANY.RUN reports the file as having no threats detected
+- CERT-PL MWDB has a link to the sample: https://mwdb.cert.pl/sample/9f41e12647a3de5cd9a9567c180cd4c5f11ad8d9c82ad9d6ad64de332006499d/
+- YOROI reports the file as malicious
+
+Noteworthy patterns and observations:
+- The file has been seen 258 times and uploaded once
+- It has been flagged as malicious by ClamAV, YOROI, and CERT-PL MWDB
+- It has been reported as having no threats detected by ANY.RUN

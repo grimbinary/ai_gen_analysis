@@ -1,7 +1,9 @@
 SHA256_a4df733d5bc4d0c50249f228bd100ac4bffd19a330d57363039a1d0f18bd56f0 Indicators Report
 
-This report summarizes the most interesting aspects of the provided information for the SHA256_a4df733d5bc4d0c50249f228bd100ac4bffd19a330d57363039a1d0f18bd56f0 file. The file is an executable with a size of 1512624 bytes, first seen on 2023-06-28 20:51:33, and has been reported by andretavare5. The origin country is US. The file has been identified as a Win64.Trojan-gen.17094.12570 by the ClamAV antivirus. It is signed with a Samsung Neo QLED 8K Smart TV QE85QN900BU digital signature. It has been tagged as "exe" and "signed".
+This report provides information on the SHA256_a4df733d5bc4d0c50249f228bd100ac4bffd19a330d57363039a1d0f18bd56f0 file. It was first seen on 2023-06-28 20:51:33 and is named 'file'. It has a file size of 1512624 bytes and is of type 'exe'. The origin country is US and the delivery method is web_drive-by.
 
-The delivery method of this file is web_drive-by. It has been downloaded 245 times and uploaded once. The intelligence gathered on the file includes the ClamAV antivirus identification of a Win64.Trojan-gen.17094.12570, as well as the download and upload counts. The File Information, OLE Information, and Vendor Intel do not have any noteworthy patterns or observations based on the provided information. 
+The most interesting aspect of this file is the code sign, which indicates that it was signed by Samsung Neo QLED 8K Smart TV QE85QN900BU. The signature is valid from 2023-06-27T12:40:17Z to 2033-06-28T12:40:17Z and has a serial number of 6ae730c22cef5cb043c9fc8b3d40c7f9. The thumbprint algorithm is SHA256 and the thumbprint is 6d98c000bef8dc5c01f6afc043bf48b5cbfc0466578c1cf3997a67242a31d216.
 
-Overall, this report summarizes the most interesting aspects of the SHA256_a4df733d5bc4d0c50249f228bd100ac4bffd19a330d57363039a1d0f18bd56f0 file. It is an executable, signed with a Samsung Neo QLED 8K Smart TV QE85QN900BU digital signature, identified as a Win64.Trojan-gen.17094.12570 by ClamAV antivirus, and has been downloaded 245 times and uploaded once.
+The intelligence associated with the file indicates that it has been detected by ClamAV as SecuriteInfo.com.Win64.Trojan-gen.17094.12570.UNOFFICIAL. It has been downloaded 245 times and uploaded 1 time.
+
+The file has also been tagged as 'exe' and 'signed'. There is no signature associated with the file and no OLE information is provided. There is no Vendor Intel associated with the file.

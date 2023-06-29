@@ -1,7 +1,11 @@
-The SHA256 Hash of the provided information is f24d872f7b39540fc137f8e348c0aed12d0162bebaca879775ffecc9ac2acb9b. It was first seen on 2023-06-28 15:57:57 with the file name Ordene FC22068032478332.exe, and a file size of 675840 bytes. The file type is application/x-dosexec and it was reported by James_inthe_box from the US. It was given the signature AgentTesla and is tagged with exe and AgentTesla. The delivery method was identified as other and the intelligence includes 261 downloads and 1 uploads.
+SHA256_f24d872f7b39540fc137f8e348c0aed12d0162bebaca879775ffecc9ac2acb9b Indicators Report
 
-The file information includes a context of cape with a value of https://www.capesandbox.com/analysis/403602/. Additionally, the imphash is f34d5f2d4577ed6d9ceec516c1f5a744, the tlsh is T120E4373C18BD2B27C174D7EA8FE48063F664943B3922DA2559C297D50756FA229C323F, and the ssdeep is 12288:tmRYXnhgavB6cUWeq10JVQ7I8eOqumtYiXpDK3j+zz:XXe0QDxq1kGqZtpXpDKSzz. The vendor intel from ANY.RUN identified this as a malware family of agenttesla with a verdict of malicious activity.
+This report provides an analysis of the file "Ordene FC22068032478332.exe" (SHA256_f24d872f7b39540fc137f8e348c0aed12d0162bebaca879775ffecc9ac2acb9b), which was first seen on 2023-06-28 15:57:57. It is a 675840 byte executable file of type "application/x-dosexec". The reporter is James_inthe_box and the file originated from the US. The signature associated with the file is AgentTesla and it has been tagged as such.
 
-The most interesting aspect of the provided information is the signature AgentTesla. AgentTesla is a commercially available piece of malware, and is known for it's ability to steal email credentials, capture screenshots, and log keystrokes. It is often used by cybercriminals to target individuals and businesses. Additionally, the tlsh and ssdeep hashes are unique to this file, which indicates that it has not been seen before.
+The delivery method associated with the file is 'other', and it has been identified as malicious by various intelligence sources such as ClamAV (SecuriteInfo.com.Win32.PWSX-gen.22751.20204.UNOFFICIAL) and ANY.RUN (malware family AgentTesla).
 
-F24d872f7b39540fc137f8e348c0aed12d0162bebaca879775ffecc9ac2acb9b Indicators Report
+The file also contains various hashes for identification purposes, such as SHA1 (be8590393c6ba737cceaeb97e2d519adadfcb2b5), MD5 (bd5699f60fba007a7c16fa13dd46b3ed), SHA3-384 (599791a654cb008d59f0a3adddcd60158a5f393e849e1737fc7c32cbce3d4a11037052aa6bf4aab6bfb9e477eba084c8), and Imphash (f34d5f2d4577ed6d9ceec516c1f5a744).
+
+The file has been identified by Yara rules such as "pe_imphash" and "Skystars_Malware_Imphash". It has been downloaded 261 times and uploaded once.
+
+Overall, this file is a malicious executable file that has been identified by multiple intelligence sources, has been downloaded and uploaded multiple times, and has been identified by various hashes and Yara rules. It is recommended to avoid interacting with this file.

@@ -1,0 +1,7 @@
+The SHA256 hash for this file is 5b8e096d71a9cd1a4847871083e473b2828eb2aabe0acdba82e722d0bb2e11c3. It was first seen on 2023-06-28 20:17:24. The file is a 321024 byte executable (file type: application/x-dosexec) with the filename 'file'. It was reported by andretavare5 from the US. The signature is Fabookie, and tags associated with it are 'exe' and 'Fabookie'. The delivery method for this file is web_drive-by.
+
+The intelligence associated with this file includes ClamAV detecting it as a SecuriteInfo.com.Win64.Trojan-gen.26553.2185.UNOFFICIAL, 247 downloads, 1 upload, and no mail. The file information context associated with this file is dropped_by_malware and the value is PrivateLoader; the URLhaus is https://urlhaus.abuse.ch/url/2672595/; and the CAPE is https://www.capesandbox.com/analysis/403625/. There is no OLE information associated with this file.
+
+The most interesting aspect of this file is that it is being detected as a Trojan by ClamAV and has 247 downloads and 1 upload, indicating that it has been shared amongst a large number of users. Additionally, the file information context associated with this file is dropped_by_malware, suggesting that it may have been installed by a malicious actor.
+
+5b8e096d71a9cd1a4847871083e473b2828eb2aabe0acdba82e722d0bb2e11c3 Indicators Report

@@ -1,0 +1,12 @@
+SHA256 Hash: 853d0ba3e6a2749d9fd18afc0d52a8ab7d5b790f263c8dcf9e465a7135571cf7
+Indicators Report
+
+This report summarizes the indicators found in the file 853d0ba3e6a2749d9fd18afc0d52a8ab7d5b790f263c8dcf9e465a7135571cf7. The file is an executable (exe) first seen on 2023-06-28 14:20:22, with a file size of 365056 bytes and reported by abuse_ch from the Netherlands. The file was identified using the signature ArkeiStealer, has an imphash of f1d9ed365982f922b6db5c4cf987cb66, and is tagged with ArkeiStealer and exe. It was delivered via web_download.
+
+Intelligence gathered from ClamAV, downloads, and uploads suggests that the file is the Win.Packer.pkr_ce1a-9980177-0. URLs provided by URLhaus and CAPE give further evidence to this.
+
+The file also has two Yara rules associated with it, including one that detects Telegram URLs and one that detects Windows executables referencing non-Windows User-Agents. This indicates that the file may be malicious and could be used to steal information.
+
+No OLE information was found associated with the file.
+
+Overall, this file is likely to be malicious and could be used to steal information.

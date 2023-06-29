@@ -1,11 +1,15 @@
-], "sha256_hash": "cd15fbc9e839dbc2888b3e72c47827e09a8bc50038a509f138c266ebcf2f3ed6"}]}}]
+], "samples": [{...}]}]}}]
 
-CD15FBC9E839DBC2888B3E72C47827E09A8BC50038A509F138C266EBCF2F3ED6 Indicators Report
+SHA256_cd15fbc9e839dbc2888b3e72c47827e09a8bc50038a509f138c266ebcf2f3ed6 Indicators Report
 
-The provided indicators report pertains to a malicious executable file with the SHA256 hash CD15FBC9E839DBC2888B3E72C47827E09A8BC50038A509F138C266EBCF2F3ED6. It was first seen on 2023-06-28 14:22:12 and has a file name of file.exe. It has a file size of 468496 bytes and it is of type application/x-dosexec. It was reported by abuse_ch and originated from the Netherlands. It is associated with the ArrowRAT signature and the tags ArrowRAT and exe.
+This report summarizes the analysis of a malicious executable file, identified by the SHA256 hash cd15fbc9e839dbc2888b3e72c47827e09a8bc50038a509f138c266ebcf2f3ed6. It was first seen on 2023-06-28 14:22:12 and is a 468,496 byte file of type application/x-dosexec. It was reported by abuse_ch and is believed to have originated in the Netherlands. The signature of the file is ArrowRAT.
 
-The intelligence associated with this file includes 263 downloads and 1 uploads, and is recognized as malicious by ClamAV with the Win.Dropper.Formbook-9993903-0, Win.Packed.Cerbu-9993871-0, Win.Packed.Formbook-9980347-1, and Win.Packed.Generic-6680913-0 signatures. It has also been identified as malicious activity by ANY.RUN.
+The file was identified as malicious by several sources, including ClamAV with the verdicts Win.Dropper.Formbook-9993903-0, Win.Packed.Cerbu-9993871-0, Win.Packed.Formbook-9980347-1, and Win.Packed.Generic-6680913-0. According to intelligence sources, there have been 263 downloads and 1 upload of the file.
 
-The file information includes a context from CAPE and the Yara rules include a BAZT_B5_NOCEXInvalidStream rule.
+The file has been analyzed by ANY.RUN and identified as malicious, with the analysis URL https://app.any.run/tasks/0209449e-7cd0-44b4-a569-9043e449fbf1.
 
-Noteworthy patterns include the fact that the file was reported by abuse_ch and is recognized as malicious by multiple sources, including ClamAV and ANY.RUN.
+The file has also been analyzed by CAPE, with the analysis URL https://www.capesandbox.com/analysis/403535/.
+
+Yara rule BAZT_B5_NOCEXInvalidStream has been applied to the file.
+
+This file appears to be a malicious executable used for malicious activity, likely in the form of a dropper. It is likely being used to distribute other malicious payloads.

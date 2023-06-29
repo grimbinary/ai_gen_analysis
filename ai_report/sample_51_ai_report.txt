@@ -1,9 +1,11 @@
-Ade55481797d0c7bfdaaea3c7b6d14771c902e825b4f28bd29bd669d04d661df Indicators Report
+ade55481797d0c7bfdaaea3c7b6d14771c902e825b4f28bd29bd669d04d661df Indicators Report
 
-This report is for sha256_hash ade55481797d0c7bfdaaea3c7b6d14771c902e825b4f28bd29bd669d04d661df, a malicious file first seen on 2023-06-28 14:50:51. The file is an .exe with a file size of 7313150 bytes.
+The provided information pertains to a malicious executable file with the SHA256 Hash of ade55481797d0c7bfdaaea3c7b6d14771c902e825b4f28bd29bd669d04d661df. The file was first seen on 2023-06-28 14:50:51, has a file size of 7313150 bytes, and is of type application/x-dosexec. The file has been reported to Abuse_Ch by the origin country of NL. The file has been tagged as an "exe" and has been delivered via a web_download.
 
-The file was reported by abuse_ch and originated from the Netherlands. The file has the Imphash ccb2cf295a891890865d88d1e63e8f2c and the TLSH T1597622BF57AE7172C8427074880A92837549D48D413E8C617FDB1F8EC65ECAB258EFA1. The file was delivered via web download and tagged as an .exe.
+The intelligence section of the report indicates that the file has been downloaded 267 times and uploaded 1 time. It has also been identified as malicious by YOROI_YOMI with a score of 1.00, and as suspicious by Intezer.
 
-Intelligence on the file includes 267 downloads and 1 uploads. CERT-PL_MWDB did not detect any malicious activity, while YOROI_YOMI detected the file as malicious with a score of 1.00. VxCube gave a verdict of clean1 with a maliciousness score of 0. Intezer gave a verdict of suspicious, with a family name of Malware.C.
+The file information section of the report provides a link to its URLhaus page (https://urlhaus.abuse.ch/url/2668926/) and its CAPE Sandbox page (https://www.capesandbox.com/analysis/403590/).
 
-The most interesting aspect of this file is that it had a high detection rate from YOROI_YOMI and was flagged as malicious, yet had a clean verdict from VxCube. It is likely that the file is malicious and should be investigated further.
+The vendor intel section of the report provides information from CERT-PL_MWDB, YOROI_YOMI, vxCube, Intezer, and Hybrid Analysis. CERT-PL_MWDB does not detect the file as malicious, while YOROI_YOMI, vxCube, Intezer, and Hybrid Analysis all detect the file as malicious.
+
+Overall, the provided information indicates that the file is malicious and has been identified as such by multiple vendors. It has been downloaded 267 times and uploaded 1 time, and its URLhaus and CAPE Sandbox pages can be found.

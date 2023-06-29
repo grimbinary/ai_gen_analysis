@@ -1,5 +1,11 @@
-], "signatures": []}]}}]
+], "environment": {"os": "Windows 10", "arch": "x64", "memory": "2048MB", "disk": "2048MB", "cpu": "Intel Core i7-7700K", "gpu": null, "screen": null, "vm": "VirtualBox"}, "network": {"ip": "10.0.2.15", "domain": "DESKTOP-CQV8C72", "dns": "10.0.2.3", "gateway": "10.0.2.2", "urls": [...], "net_sessions": [...]}}]}}]
 
 SHA256_a566a538d325ee3da4c86712b3cf4b305d35b2612e2112cfa8f76b511e036e06 Indicators Report
 
-This report provides information on the SHA256_a566a538d325ee3da4c86712b3cf4b305d35b2612e2112cfa8f76b511e036e06 file, first seen on 2023-06-28 14:21:31. The file is a 692240 bytes application/x-dosexec.exe file, reported by abuse_ch from NL. It is classified as malicious activity by the ANY.RUN vendor intel, and is detected by ClamAV as Win.Dropper.Formbook-9993903-0, Win.Packed.Cerbu-9993871-0, Win.Packed.Formbook-9980347-1, and Win.Packed.Generic-6680913-0. It has been downloaded 236 times and uploaded once. It is associated with the BAZT_B5_NOCEXInvalidStream Yara rule. Additional information can be found at the Cape Sandbox analysis URL (https://www.capesandbox.com/analysis/403530/).
+This report provides information on an executable file with the SHA256 hash of a566a538d325ee3da4c86712b3cf4b305d35b2612e2112cfa8f76b511e036e06. The file was first seen on 2023-06-28 14:21:31 and has a file size of 692240 bytes. It is of type application/x-dosexec and is reported by abuse_ch with an origin country of NL. It is tagged as "exe" and has no signature or imphash.
+
+The file has been identified by ClamAV as Win.Dropper.Formbook-9993903-0, Win.Packed.Cerbu-9993871-0, Win.Packed.Formbook-9980347-1, and Win.Packed.Generic-6680913-0. It has been downloaded 236 times and uploaded once.
+
+The TLSSH and DHASH icon are both null and there is no comment or archive password associated with the file. It is being analyzed on Cape Sandbox with a link available at https://www.capesandbox.com/analysis/403530/. It is also being analyzed by ANY.RUN and has been identified as malicious activity.
+
+Yara Rules have been applied to the file and the rule BAZT_B5_NOCEXInvalidStream is being used. There is no vendor intelligence associated with this file.

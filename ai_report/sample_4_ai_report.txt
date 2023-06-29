@@ -1,11 +1,13 @@
-/analysis/"}}, "virus_total": {"detection": 3, "link": "https://www.virustotal.com/gui/file/44de3cda2390b20b694a4121a3fcf1f940e2c5d50e5bcb8f13ce975c7fc962d9/detection"}}]
+/analysis"}}}
 
 44de3cda2390b20b694a4121a3fcf1f940e2c5d50e5bcb8f13ce975c7fc962d9 Indicators Report
 
-This report provides information on a malicious executable file with the SHA256 hash of 44de3cda2390b20b694a4121a3fcf1f940e2c5d50e5bcb8f13ce975c7fc962d9. It was first seen on 2023-06-28 21:22:19, and is 8653312 bytes in size. The file type is an executable (exe) and is reported by ULTRAFRAUD. The origin country is Luxembourg, and the signature for the file is Formbook. It has been tagged as an exe and Formbook, and has no known delivery method. 
+This report summarizes the information provided regarding the file "me5.exe" (SHA256: 44de3cda2390b20b694a4121a3fcf1f940e2c5d50e5bcb8f13ce975c7fc962d9). The file was first seen on June 28th, 2023 and is 8653312 bytes in size. It is classified as an executable file (application/x-dosexec) and is associated with the Formbook malware family.
 
-Intelligence on the file indicates that it has been downloaded 269 times and uploaded once. The file is also associated with the Imphash 'f34d5f2d4577ed6d9ceec516c1f5a744' and the SSDeep '196608:whTb9B0BPrDz4pxgZZPy5RmStgxb/z6FDiSJXqeUh4mT7:eTb9epDz4MZZ4RmxYDiScfhH'.
+The file has been reported by ULTRAFRAUD and is believed to have originated from Luxembourg. It has an associated Imphash (f34d5f2d4577ed6d9ceec516c1f5a744), Tlsh (T1C69633584F94F7DEE7A18D3625F5120AABD9B1638B57CE9FCEC836200121BC8EB2554C) and Ssdeep (196608:whTb9B0BPrDz4pxgZZPy5RmStgxb/z6FDiSJXqeUh4mT7:eTb9epDz4MZZ4RmxYDiScfhH) hashes.
 
-Vendor intel indicates that the file is malicious according to ANY.RUN, and is under analysis by CERT-PL_MWDB. According to VirusTotal, the file has a detection rate of 3 out of 57.
+The file has been identified as malicious by ClamAV (SecuriteInfo.com.Win32.DropperX-gen.5755.4886.UNOFFICIAL) and has been identified as having malicious activity by ANY.RUN. It has 269 downloads and 1 uploads, but no associated mail activity.
 
-The most interesting aspect of this file is its high detection rate by VirusTotal, indicating that it has been identified as malicious by multiple sources.
+The file is associated with the CERT-PL_MWDB and has a corresponding analysis URL (https://mwdb.cert.pl/sample/44de3cda2390b20b694a4121a3fcf1f940e2c5d50e5bcb.../analysis). It also has an associated CAPE analysis URL (https://www.capesandbox.com/analysis/403644/).
+
+Overall, this file appears to be a malicious executable associated with the Formbook malware family. It has been identified as malicious by ClamAV and ANY.RUN, and has been reported by ULTRAFRAUD. It has 269 downloads and 1 upload, but no associated mail activity. It is associated with the CERT-PL_MWDB and has a corresponding analysis URL.

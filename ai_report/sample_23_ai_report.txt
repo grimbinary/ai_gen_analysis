@@ -1,0 +1,13 @@
+Indicators Report for 025b9b89b269cdb626dc7468ac3e9a38233fc897a63f13258b44b214845ca57f
+
+This report provides a summary of the most interesting aspects of the provided information on the SHA256 Hash 025b9b89b269cdb626dc7468ac3e9a38233fc897a63f13258b44b214845ca57f. This includes the First Seen, File Name, File Size, File Type, Reporter, Origin Country, Signature, Tags, Delivery Method, Intelligence, File Information, OLE Information, and Vendor Intel if applicable.
+
+The File Name for 025b9b89b269cdb626dc7468ac3e9a38233fc897a63f13258b44b214845ca57f is 296d8d9f14a526b4f260b645051b9ee7.exe, and it has a File Size of 401920. It is an executable (exe) File Type, with a MIME type of application/x-dosexec. It was reported by abuse_ch, and it was first seen on 2023-06-28 20:15:08.
+
+The Origin Country is NL, and the signature is RedLineStealer. The tags associated with 025b9b89b269cdb626dc7468ac3e9a38233fc897a63f13258b44b214845ca57f are exe and RedLineStealer. The Delivery Method is web_download.
+
+The Intelligence associated with this indicator includes ClamAV Win.Packer.pkr_ce1a-9980177-0, 250 downloads, 2 uploads, and no mail. The File Information includes a URLhaus link (https://urlhaus.abuse.ch/url/2667674/), and a CAPE Sandbox link (https://www.capesandbox.com/analysis/403624/). There is no OLE Information or Vendor Intel associated with this indicator.
+
+The two Yara Rules associated with 025b9b89b269cdb626dc7468ac3e9a38233fc897a63f13258b44b214845ca57f are MALWARE_Win_RedLine (Detects RedLine infostealer, by ditekSHen) and MAL_Malware_Imphash_Mar23_1 (Detects malware by known imphash, by Arnim Rupp).
+
+Overall, 025b9b89b269cdb626dc7468ac3e9a38233fc897a63f13258b44b214845

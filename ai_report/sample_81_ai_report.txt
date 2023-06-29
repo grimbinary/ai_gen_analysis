@@ -1,22 +1,5 @@
-/"}]}}]
+2-4e25-8b6f-17f4f1f8f8ec"}]}}]
 
 SHA256_0ffefe2d77fdd37e8dff23d4187ee4ad1c6f4d506d3178c6db673966599e9449 Indicators Report
 
-This report provides an overview of the key indicators associated with the file at SHA256_0ffefe2d77fdd37e8dff23d4187ee4ad1c6f4d506d3178c6db673966599e9449.
-
-File Name: file.exe
-File Size: 724695
-File Type: application/x-dosexec
-Reporter: abuse_ch
-Origin Country: NL
-Tags: exe
-
-The file was first seen on 2023-06-28 14:19:50 and is currently not seen in any other locations. The file contains an Imphash value of 12e12319f1029ec4f8fcbed7e82df162, a Tlsh value of T106F40102BEC295B2D0621D335B756B20693CBE201F65CEEFA3D46A5DCE215C0DB357A2 and a Ssdeep value of 12288:2ToPWBv/cpGrU3yVtX+t4VXcJApapQojU46Ea6zj9ikIM7KcqNlV/AD7:2TbBv5rUyXVXcJApapb36Ea6zjckIMyq.
-
-The file has been identified by intelligence sources as containing the "SecuriteInfo.com.Trojan.GenericKD.38920448.13962.7593.UNOFFICIAL" threat. It has been downloaded 247 times and uploaded 1 time.
-
-A Yara rule has been identified for the file, "SelfExtractingRAR" authored by Xavier Mertens which is designed to detect an SFX archive with automatic script execution.
-
-The file has been analyzed by ANY.RUN and no threats have been detected.
-
-Overall, this file has been identified as containing a potential threat and has been downloaded a large amount of times. It is recommended that users take caution when accessing this file.
+This report provides a summary of the indicators related to the file with the SHA256 hash of 0ffefe2d77fdd37e8dff23d4187ee4ad1c6f4d506d3178c6db673966599e9449. The file was first seen on 2023-06-28 14:19:50, with a file name of “file.exe” and a file size of 724695 bytes. The file type is identified as “application/x-dosexec” and is reported by “abuse_ch” with an origin country of “NL”. The most interesting aspects of this file include the presence of an imphash, tlsh, and ssdeep values, as well as intelligence from ClamAV and the presence of a Yara Rule. Additionally, the file has been analyzed by ANY.RUN, with a verdict of “No threats detected”. This file is likely benign, though it is recommended that further investigation is conducted for any suspicious activities.

@@ -1,7 +1,8 @@
-Report Title: 1201be819db6d09ce9bd23656c5bbd7430e0420f30c39afe37b3a4662581f143 Indicators Report
+Report: 1201be819db6d09ce9bd23656c5bbd7430e0420f30c39afe37b3a4662581f143 Indicators Report
+The SHA256 Hash provided, 1201be819db6d09ce9bd23656c5bbd7430e0420f30c39afe37b3a4662581f143, was first seen on 2023-06-28 14:17:58. The file name is file.exe and the file size is 387088 bytes. The file type is application/x-dosexec and the origin country is NL.
 
-This report summarizes the most interesting aspects of the provided information about the file with the SHA256 hash 1201be819db6d09ce9bd23656c5bbd7430e0420f30c39afe37b3a4662581f143. This file was first seen on 2023-06-28 14:17:58, is an EXE file with a size of 387088, and was reported by abuse_ch from the Netherlands. The file has been identified by multiple antivirus programs as Win.Dropper.Formbook-9993903-0, Win.Packed.Cerbu-9993871-0, Win.Packed.Formbook-9980347-1, and Win.Packed.Generic-6680913-0.
+The file is tagged with "exe" and the intelligence associated with it includes ClamAV detecting Win.Dropper.Formbook-9993903-0, Win.Packed.Cerbu-9993871-0, Win.Packed.Formbook-9980347-1, and Win.Packed.Generic-6680913-0. It has been downloaded 231 times and uploaded 1 time. The file is also associated with the Cape sandbox analysis, which can be found at the URL provided.
 
-It has been downloaded 231 times and uploaded 1 time and has been identified as malicious activity by Any.Run. It has also been identified by a Yara rule, BAZT_B5_NOCEXInvalidStream.
+The Yara rule associated with the file is BAZT_B5_NOCEXInvalidStream. Lastly, the vendor intel for this file includes a verdict of malicious activity from Any.Run, with the analysis URL provided.
 
-The most interesting aspect of this file is the fact that it has been identified as malicious by multiple antivirus programs, Any.Run, and a Yara rule. This indicates that it is likely a malicious file that should be avoided.
+Overall, this file is associated with multiple detections of malicious activity, suggesting it is likely malicious. It has been downloaded multiple times and uploaded once, so it is likely being spread.

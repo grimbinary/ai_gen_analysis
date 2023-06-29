@@ -1,0 +1,11 @@
+SHA256_hash: 023886a930cde30e5d1089fd678495fa01db6cdf96f1e5764c37570eec63ac6d Indicators Report
+
+This report is based on the SHA256_hash 023886a930cde30e5d1089fd678495fa01db6cdf96f1e5764c37570eec63ac6d. This hash was first seen on June 28th, 2023. The file name associated with this hash is SecuriteInfo.com.Trojan.NSIS.Agent.22628.17291 and has a file size of 413346. This file type is an executable application/x-dosexec. The origin country associated with this hash is France and the signature associated with it is GuLoader. 
+
+The delivery method and intelligence associated with this hash were not provided. However, it was reported by SecuriteInfoCom and has been downloaded 267 times and uploaded once. It was also found to have suspicious activity according to ANY.RUN. It also has some associated tags, such as “exe” and “GuLoader”.
+
+The file information associated with this hash includes a context of cape and a value of https://www.capesandbox.com/analysis/403611/. Additionally, this hash has an imphash of b34f154ec913d2d2c435cbd644e91687, a tlsh of T1C0949CDD2AE1C51ACD61D7F00867DF745E30AE5CE9C0460AF6D43E9BB9332A2780E661, a ssdeep of 6144:xmOP4gWqmzBeO29CDboxnfIfxpDJ303yY/sS4FmOfDBDuc:v7mVeOMSboxnfI7N3KUS18uc, and a dhash_icon of 0228d8994fe4f013.
+
+The vendor intel associated with this hash is from CERT-PL_MWDB, which found no detections for this hash.
+
+Overall, the most interesting aspects of the provided information are the origin country of France, the signature of GuLoader, the suspicious activity detection by ANY.RUN, and the associated imphash, tlsh, ssdeep, and dhash_icon.

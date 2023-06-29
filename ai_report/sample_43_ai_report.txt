@@ -1,5 +1,11 @@
-DC162F6994B714C3F26CE9F5A6490D7B395FFEBFb01e1949720177C3AF03D7AB Indicators Report
+dc162f6994b714c3f26ce9f5a6490d7b395ffebfb01e1949720177c3af03d7ab Indicators Report
 
-This report summarizes information regarding the SHA256 hash ‘dc162f6994b714c3f26ce9f5a6490d7b395ffebfb01e1949720177c3af03d7ab’. This file was first seen on 2023-06-28 15:20:09, and is a .exe file of 358400 bytes. The origin country is NL, and the reporter is abuse_ch. The signature associated with this file is ‘RedLineStealer’, and the tags associated with it are ‘exe’ and ‘RedLineStealer’. The delivery method is web_download, and the intelligence collected on it includes clamav detection Win.Packer.pkr_ce1a-9980177-0, 282 downloads, 1 uploads, and no mail activity. The file information includes a URLhaus link and a Cape Sandbox link. There are two yara rules associated with this file, MALWARE_Win_RedLine and MAL_Malware_Imphash_Mar23_1.
+This report summarizes the indicators associated with the SHA256 hash dc162f6994b714c3f26ce9f5a6490d7b395ffebfb01e1949720177c3af03d7ab. The file was first seen on 2023-06-28 15:20:09, with the file name 5f46d71351eaa94763c589b62e73591a.exe, a file size of 358400 bytes, and a file type of application/x-dosexec (exe). The reporter was abuse_ch and the origin country was NL. The signature associated with the file is RedLineStealer, with associated tags of exe and RedLineStealer. The delivery method was web_download.
 
-This file is associated with the RedLine infostealer, which is a malicious program that is capable of stealing sensitive information from an infected system. The file information and intelligence associated with this file suggest that it is widely distributed and has been seen in multiple countries. The signature and yara rules associated with this file also suggest that it is likely malicious in nature.
+The intelligence associated with the file includes ClamAV detecting the file as Win.Packer.pkr_ce1a-9980177-0, with a total of 282 downloads and 1 uploads. The file information includes the URLhaus URL of https://urlhaus.abuse.ch/url/2667674/ and the CAPE Sandbox URL of https://www.capesandbox.com/analysis/403598/.
+
+The imphash of the file is f4925062616b110bd402bdb61edf2e9d, and the TLSh is T13E747E439291BD55D9258B728E2ED3F8771DF6508E4A7BA57138AF6F04B20B2D1B3310. The ssdeep is 3072:2E1fl8vhjeB9DFaP4CSox5yUUSvT7bPU/bAEP3WLWlpPKWqx8wAw7qqRAV5jwSnb:FGUPDePmUrU/93WCXKWqx87FwgwSui, and the dhash_icon is 060605011c101000. The comment is RedLineStealer C2: 146.59.161.7:36019.
+
+Yara rules associated with the file include MALWARE_Win_RedLine, authored by ditekSHen, with the description of "Detects RedLine infostealer," and MAL_Malware_Imphash_Mar23_1, authored by Arnim Rupp, with the description of "Malware detection based on imphash."
+
+Overall, the file is associated with RedLineStealer, an infostealer, with associated intelligence,

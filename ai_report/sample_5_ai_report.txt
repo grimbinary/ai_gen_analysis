@@ -1,9 +1,9 @@
-/analysis"}}}]
+0920037/analysis/"}}, "machine_id": null, "report_id": null}]
 
 A8A85E6FAAED6A3DC5687D05B92A9F181E0D986EAE1B4E1D731C221990920037 Indicators Report
 
-The provided information pertains to a malicious executable file, identified by the SHA256 hash a8a85e6faaed6a3dc5687d05b92a9f181e0d986eae1b4e1d731c221990920037, first seen on 2023-06-28 21:21:39. The file is named me4.exe, is 11849728 bytes in size, and is of the type application/x-dosexec. The reporter for this file is ULTRAFRAUD, and its origin country is LU. The file is identified as a QuasarRAT, and has an associated Imphash of f34d5f2d4577ed6d9ceec516c1f5a744.
+This report provides an analysis of the file identified by the SHA256 hash ‘A8A85E6FAAED6A3DC5687D05B92A9F181E0D986EAE1B4E1D731C221990920037’. The file was first seen on June 28th, 2023, and is a 11849728 byte executable file named ‘me4.exe’. It was reported by ULTRAFRAUD and originates from Luxembourg. It has been identified as QuasarRAT by signature. Its tags include ‘exe’ and ‘QuasarRAT’. Its delivery method and intelligence data is unknown.
 
-The file has been identified by multiple intelligence sources, including Clamav, which identified it as SecuriteInfo.com.Win32.DropperX-gen.11766.6199.UNOFFICIAL. It has 261 downloads and 1 upload. It has also been identified by ANY.RUN as a QuasarRAT, and CERT-PL_MWDB has a link to an analysis of the file.
+File Information includes a link to a CAPE analysis, which indicates the file is malicious. OLE Information is not available. Vendor Intel indicates the file was identified as ‘Quasar’ by ANY.RUN and CERT-PL_MWDB.
 
-The most interesting aspect of this file is the number of downloads and uploads associated with it. This indicates that the file is likely widespread, and further investigation should be done to determine the extent of its spread. Additionally, the multiple intelligence sources that have identified it as malicious indicate that it is likely a serious threat.
+This file is identified as malicious by signature, and is confirmed by the CAPE analysis and Vendor Intel. It is likely a malicious executable file, possibly a dropper, used to deliver a malicious payload.

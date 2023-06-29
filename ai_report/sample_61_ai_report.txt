@@ -1,0 +1,15 @@
+user-agents", "reference": null}], "vendor_intel": null}]
+
+The SHA256 Hash for this report is e356f807c297edf59ba7b0e1e0eb2a2186cc02246ad4bbe8d6fa42c7383b46c7. It was first seen on 2023-06-28 14:41:53 and is a 338432 byte executable file named f11de7628c58b4cd0bc3647984edc296.exe. The reporter of this file is abuse_ch and it was originally found in the Netherlands.
+
+The signature associated with this file is ArkeiStealer, it has an imphash of 2b43bf869d5b33848beb3f85bf6ab192, a tlsh of T13A74CF039691BC61DD12C6328E2EC2E8BB1DF9609F597BA732385F2F59711A2E573301, and a ssdeep of 6144:Rcidmp9qgX6d6XGGX/TAeKfXg3PEYURPE:6X6d6DXUeqCRu8.
+
+The delivery method of this file is web download and it has been identified by ClamAV as Win.Packer.pkr_ce1a-9980177-0. It has been downloaded 241 times and uploaded once.
+
+The file information includes a URLhaus link (https://urlhaus.abuse.ch/url/2615177/) and a CAPE Sandbox link (https://www.capesandbox.com/analysis/403580/).
+
+The file also includes two Yara rules, "has_telegram_urls" and "INDICATOR_SUSPICIOUS_EXE_NoneWindowsUA".
+
+e356f807c297edf59ba7b0e1e0eb2a2186cc02246ad4bbe8d6fa42c7383b46c7 Indicators Report
+
+This report summarizes the indicators associated with a 338432 byte executable file, named f11de7628c58b4cd0bc3647984edc296.exe, which was first seen on 2023-06-28 14:41:53. The file was originally found in the Netherlands and was reported by abuse_ch. The signature associated with the file is ArkeiStealer, and it has an imphash of 2b43bf869d5b33848beb3f85bf6ab192, a tlsh of T13A74CF039691BC61DD12C6328E2EC2

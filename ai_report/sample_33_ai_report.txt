@@ -1,0 +1,7 @@
+Report Title: 87d0708f63cbbba7d7213a72baa51da5b383f2f2c73abd2abba0bed42fb08932 Indicators Report
+
+This report provides an overview of the file information associated with the SHA256 hash 87d0708f63cbbba7d7213a72baa51da5b383f2f2c73abd2abba0bed42fb08932. This file was first seen on 2023-06-28 16:37:41 and has a file size of 1074412 bytes. It is an application/x-dosexec file type and was reported by fabiodemartin. Its origin country is BR and it is not anonymous. There are no signatures associated with the file. Its tags are “exe” and its delivery method is email attachment.
+
+The intelligence associated with this file includes ClamAV, downloads (285), uploads (1), and mail (null). The file information includes a context of “cape” and a value of “https://www.capesandbox.com/analysis/403608/”. There is no OLE information associated with the file. The Yara rules associated with the file are “MSIL_SUSP_OBFUSC_XorStringsNet”, “msil_susp_obf_xorstringsnet”, and “msil_obfuscator_generic_2”.
+
+The most interesting aspect of the provided information is the high number of downloads associated with the file (285). This indicates that the file is likely to be widely circulated and may have been successful in its malicious intent. The Yara rules associated with the file also indicate that the file is likely to be malicious, as they relate to obfuscation and other forms of malicious behavior.

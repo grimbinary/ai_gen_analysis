@@ -1,0 +1,9 @@
+5e273d27c320b4ba9da91dedaa66ba91cb6ac05fa2195096a2b85e9954e981c0 Indicators Report
+
+This report provides a summary of the most interesting aspects of the file with the SHA256 hash of 5e273d27c320b4ba9da91dedaa66ba91cb6ac05fa2195096a2b85e9954e981c0, first seen on 2023-06-28 14:21:56. The file is an executable with a file size of 691728 bytes and was reported by Abuse_ch. The origin country is NL and the file has been identified by several anti-virus programs as Win.Dropper.Formbook-9993903-0, Win.Packed.Cerbu-9993871-0, Win.Packed.Formbook-9980347-1, and Win.Packed.Generic-6680913-0.
+
+The code associated with the file includes an Imphash, a TLSh, and an SSDeep. It has been tagged as “exe” and is associated with a Yara rule, BAZT_B5_NOCEXInvalidStream. It has also been linked to a malicious activity on the ANY.RUN platform, with a malware family of “agenttesla”.
+
+The file has been analyzed by Cape Sandbox and has been downloaded 247 times and uploaded 1 time. The analysis of the file can be found at https://www.capesandbox.com/analysis/403534/.
+
+Overall, the file has been identified as malicious and is associated with a family of malware known as “agenttesla”. It has been downloaded multiple times and is associated with a Yara rule. It is recommended that the file be removed and all systems be scanned for any related malicious activity.

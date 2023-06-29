@@ -1,0 +1,9 @@
+2bc364e692d47380f0e7bf27be5f0ec731195552ff3b8951bd5409f18fa803e7 Indicators Report
+
+This report provides a summary of the information associated with a file identified by the SHA256 hash 2bc364e692d47380f0e7bf27be5f0ec731195552ff3b8951bd5409f18fa803e7.
+
+The file, named d03e768f471d9757ddcbd48bdaf26bf2, was first seen on 2023-06-28 14:18:29 and is 872,464 bytes in size. It is of type application/x-dosexec and is classified as an executable file. The origin country is NL and the reporter is abuse_ch. The signature associated with this file is RemcosRAT and the tags associated with it are d03e768f471d9757ddcbd48bdaf26bf2, exe, RAT, and RemcosRAT. There is no delivery method associated with this file.
+
+The intelligence associated with this file includes downloads of 242 times and 1 upload. ClamAV identifies this file as Win.Dropper.Formbook-9993903-0, Win.Packed.Cerbu-9993871-0, Win.Packed.Formbook-9980347-1, Win.Packed.Generic-6680913-0. The file information includes a context from CAPE and a value of a URL to a Cape Sandbox analysis. There is no OLE information or vendor intel associated with this file. The YARA rule associated with this file is BAZT_B5_NOCEXInvalidStream.
+
+Overall, the most interesting aspects of this file are its signature of RemcosRAT and the ClamAV identification of it as a malicious file. Additionally, the YARA rule associated with this file is noteworthy.

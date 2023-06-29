@@ -1,13 +1,9 @@
 /analysis"}}}]
 
-Report:
+Report Title: 2658355af06f2bd5c9bb325e856723a362efcd9d9a8ee6a7c7f6ae5f85214e88 Indicators Report
 
-2658355af06f2bd5c9bb325e856723a362efcd9d9a8ee6a7c7f6ae5f85214e88 Indicators Report
+This report provides an overview of the information related to the SHA256 hash, 2658355af06f2bd5c9bb325e856723a362efcd9d9a8ee6a7c7f6ae5f85214e88. This hash was first seen on June 28th, 2023 and is associated with a file named me2.exe. The file size is 8,650,752 bytes and is of type application/x-dosexec. The reporter of this hash is ULTRAFRAUD and the origin country is LU. The signature associated with this hash is Formbook and the tags associated with it are "exe" and "Formbook".
 
-This report covers a file, me2.exe, with a SHA256 Hash of 2658355af06f2bd5c9bb325e856723a362efcd9d9a8ee6a7c7f6ae5f85214e88. The file was first seen on 2023-06-28 21:20:50 and is an executable file of size 8650752 bytes. The Reporter is ULTRAFRAUD and the Origin Country is LU. The Signature is Formbook and the Tags are "exe" and "Formbook". The Delivery Method is unknown and Intelligence from Clamav, Downloads, Uploads, and Mail is provided.
+The delivery method and intelligence associated with this hash is unknown. The file information includes a context of cape and a value of https://www.capesandbox.com/analysis/403642/. There is no OLE information associated with this hash. The vendor intel associated with this hash is from ANY.RUN and CERT-PL_MWDB. The verdict from ANY.RUN is Malicious activity and the tags associated with it are "evasion".
 
-The File Information includes a Context of "cape" and a Value of a link to the Cape Sandbox analysis of the file. There is no OLE Information and no Vendor Intel.
-
-The most interesting aspects of this report are the Signature, Tags, and Intelligence. The Signature is Formbook, a form-grabbing malware used to steal user data from web forms. The Tags include "exe" and "Formbook", indicating that the file is an executable associated with Formbook. The Intelligence includes results from Clamav, Downloads, Uploads, and Mail. The Downloads and Uploads indicate that the file has been downloaded 266 times and uploaded 1 time. 
-
-Overall, this report indicates that the file me2.exe is an executable associated with Formbook, a form-grabbing malware. The file has been downloaded 266 times and uploaded 1 time, indicating that it is likely malicious.
+Overall, this hash has been associated with malicious activity and is tagged as evasion. It has been seen 266 times and uploaded once. The origin country is LU and the signature associated with this hash is Formbook.

@@ -1,0 +1,9 @@
+Report Title: ddc516549845da0775484d40a3397df8e48b542d0cf7f1c2b1be413c6465ed08 Indicators Report
+
+This report summarizes the key aspects of the provided information pertaining to a malicious file with a SHA256 hash of "ddc516549845da0775484d40a3397df8e48b542d0cf7f1c2b1be413c6465ed08". The file was first seen on 2023-06-28 14:19:05, is a 794640 byte executable file with a file name of "341520ef0b9352ddacb0311024b15f73", and is associated with the RemcosRAT malware family. The file was reported by abuse_ch and is believed to have originated from the Netherlands.
+
+The file has been detected by ClamAV as Win.Dropper.Formbook-9993903-0, Win.Packed.Cerbu-9993871-0, Win.Packed.Formbook-9980347-1, and Win.Packed.Generic-6680913-0, has been downloaded 242 times and uploaded once, and has been identified by ANY.RUN as malicious.
+
+The file has also been associated with the BAZT_B5_NOCEXInvalidStream Yara rule and has been analyzed by Cape Sandbox, with the result available at https://www.capesandbox.com/analysis/403505/.
+
+Overall, this malicious file appears to be a variant of the RemcosRAT malware family, originating from the Netherlands and has been identified by various security solutions and intelligence sources.

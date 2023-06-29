@@ -1,0 +1,9 @@
+/analysis/403452/"}]}}]
+
+40a843a0603d0fe585a83443f4dcf86c4b867122946e25443c5c3288f56efd8b Indicators Report
+
+The provided information is related to a file called z1CurriculumVitaeIsabelGonzalez.exe with a size of 276766 bytes. This file was first seen on 2023-06-28 11:06:17 and has been reported by fabiodemartin. The origin country is FR and the file type is exe. It has been identified as Formbook and is associated with tags such as exe and Formbook. The delivery method is email attachment and the intelligence associated with it includes Clamav, downloads, uploads and mail.
+
+This file has been associated with various hashes such as SHA256 Hash, SHA3_384 Hash, SHA1 Hash, MD5 Hash, Imphash, TLSh, Gimp Hash, SSDeep and DHash Icon. It has also been analyzed using cape and Yara rules. The vendor intel associated with it includes Any.Run which has identified this file as suspicious activity.
+
+Overall, this file is associated with a number of indicators that make it suspicious. It is recommended to take necessary steps to ensure that it is not malicious.

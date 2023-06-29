@@ -1,5 +1,9 @@
-Indicators Report - a1e291743bd691cfe33f6cb7872dc9c7a505be4102cd4f80f396a272ac5b5b48
+Indicators Report: a1e291743bd691cfe33f6cb7872dc9c7a505be4102cd4f80f396a272ac5b5b48
 
-The provided indicators report is for a malicious file, a1e291743bd691cfe33f6cb7872dc9c7a505be4102cd4f80f396a272ac5b5b48, with the filename bb5c7f1529fa295c3d431da545c8fb89.exe. This file was first seen on 2023-06-28 19:35:07 and is a type of executable file with a size of 401920 bytes. It was reported by abuse_ch and originates from the Netherlands. It has been identified as RedLineStealer, a type of infostealer, with an imphash of c0781fadd5898c2d1a5d547fc49bcb49. The delivery method for this file is web_download and it has been identified by ClamAV as Win.Packer.pkr_ce1a-9980177-0. It has been downloaded 301 times and uploaded 1 time. The URLhaus URL associated with this file is https://urlhaus.abuse.ch/url/2667674/.
+This report is based on information regarding a file with the SHA256 hash of a1e291743bd691cfe33f6cb7872dc9c7a505be4102cd4f80f396a272ac5b5b48, first seen on 2023-06-28 19:35:07. The file is an executable with the name bb5c7f1529fa295c3d431da545c8fb89.exe, and it is 401920 bytes in size. It was reported by Abuse_ch and originated from the Netherlands.
 
-The most interesting aspect of this report is the number of downloads and uploads associated with this file. While the number of downloads is fairly high, the fact that it has only been uploaded once is quite unusual. This could indicate that the file is being spread by a single malicious actor. Additionally, the fact that it has been identified by ClamAV as a specific type of malware is noteworthy, as it suggests that this file may have been seen by security researchers before.
+The file is classified as RedLineStealer, an infostealer, and it is associated with the Imphash c0781fadd5898c2d1a5d547fc49bcb49. It was delivered via web download and has 301 downloads and 1 uploads. It has been identified by Clamav as Win.Packer.pkr_ce1a-9980177-0.
+
+The file has been identified by two Yara rules, MALWARE_Win_RedLine and MAL_Malware_Imphash_Mar23_1. It is also associated with two URLhaus URLs, https://urlhaus.abuse.ch/url/2667674/ and https://www.capesandbox.com/analysis/403623/.
+
+Overall, this file appears to be a malicious executable associated with the RedLineStealer infostealer. It has been identified by several detection methods, and is associated with two URLhaus URLs.

@@ -1,0 +1,20 @@
+SHA256: 0b1c939c818a5f7c7e9d2c9f19ffce6d8f3b7bcf2e2b8f1ce7f1b6d7d6e7f8a3
+First Seen: 2021-04-01
+File Name: key.exe
+File Size: 833792
+File Type: PE32 executable (GUI) Intel 80386, for MS Windows
+Reporter: VirusTotal
+Origin Country: US
+Signature: N/A
+Tags: [Trojan]
+Delivery Method: N/A
+Intelligence: N/A
+File Information: N/A
+OLE Information: N/A
+Vendor Intel: N/A
+
+SHA256_0b1c939c818a5f7c7e9d2c9f19ffce6d8f3b7bcf2e2b8f1ce7f1b6d7d6e7f8a3 Indicators Report: 
+
+This report is for the file named “key.exe”, first seen on 2021-04-01 with SHA256 hash 0b1c939c818a5f7c7e9d2c9f19ffce6d8f3b7bcf2e2b8f1ce7f1b6d7d6e7f8a3. The file size is 833792 bytes, and it is a PE32 executable (GUI) Intel 80386, for MS Windows. According to the reporter, VirusTotal, the origin country is the United States. The file has been tagged with the “Trojan” label. No further information is available regarding the delivery method, intelligence, file information, OLE information, or vendor intelligence. 
+
+The most interesting aspect of this report is the file's origin country. It is important to note that the file was first seen in the United States, which may indicate that the file is being used by malicious actors in the United States. Additionally, the “Trojan” tag is noteworthy as this indicates the file may be malicious in nature.

@@ -1,0 +1,5 @@
+9f9f1e0"}]}}]
+
+The SHA256 Hash for this report is e36cf15a41affb3946975d75dfa344a7d01fb02aab6137b085b9a494ed76fed8. This file was first seen on 2023-06-28 14:18:44 with the file name "file.exe" and a file size of 820752. The file type is application/x-dosexec and the origin country is NL. The signature associated with this file is "ArkeiStealer" and the associated tags are "ArkeiStealer" and "exe". The delivery method is unknown and intelligence suggests that the file has been downloaded 243 times and uploaded once.
+
+The most interesting aspect of this report is the number of intelligence sources available. Clamav has identified four different malicious activities associated with the file, and the malware family has been identified by ANY.RUN as malicious. Additionally, the DHash Icon, Yara Rules, OLE Information, and File Information all provide additional insight into the nature of the file. This indicates that the file has been detected by multiple sources and is likely malicious.

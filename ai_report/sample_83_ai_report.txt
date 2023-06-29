@@ -1,13 +1,11 @@
-", "reference": null}], "vendor_intel": [{"vendor": "VirusTotal", "intelligence": {"detections": "56/75", "malicious": "2/75"}}]}]
+via WMI.", "reference": "https://github.com/ditekSHen/YaraRules/blob/master/INDICATOR_SUSPICIOUS_EXE_WMI_EnumerateVideoDevice.yar"}], "vendor_intel": {"virustotal": {"detected": true, "positives": "33", "total": "63", "scan_date": "2020-07-11 10:48:31"}}}]
 
-SHA256 Hash: cb9bb8d4b50cb8090ecf8af646e8b691a9c8cdd3dc0b40a217af4b84e08f7563
+cb9bb8d4b50cb8090ecf8af646e8b691a9c8cdd3dc0b40a217af4b84e08f7563 Indicators Report
 
-cb9bb8d4b50cb8090ecf8af646e8b691a9c8cdd3dc0b40a217af4b84e08f7563 Indicators Report:
+This report provides an analysis of the indicators associated with the SHA256 hash cb9bb8d4b50cb8090ecf8af646e8b691a9c8cdd3dc0b40a217af4b84e08f7563. The file was first seen on 2023-06-28 14:19:21 and is a 371216 byte executable file with a file name of 0c160b0c2ee4b192f4d9cf0202b57a43. The file has been identified as a Remote Access Tool (RAT) by the reporter Abuse_ch, originating from the Netherlands.
 
-This report is based on the provided SHA256 hash, cb9bb8d4b50cb8090ecf8af646e8b691a9c8cdd3dc0b40a217af4b84e08f7563. The file was first seen on 2023-06-28 14:19:21, and is named 0c160b0c2ee4b192f4d9cf0202b57a43, with a file size of 371216. It is classified as an executable (exe) file, and has a signature of AsyncRAT. It has been reported by abuse_ch, and has an origin country of NL. It has been tagged with 0c160b0c2ee4b192f4d9cf0202b57a43, AsyncRAT, exe, and RAT.
+The signature of the file is AsyncRAT and it has been tagged with the file name, AsyncRAT, exe and RAT. The intelligence associated with the file includes ClamAV detections, 240 downloads and 1 upload.
 
-The file has been identified by intelligence sources such as ClamAV, which identified the file as Win.Dropper.Formbook-9993903-0, Win.Packed.Cerbu-9993871-0, Win.Packed.Formbook-9980347-1, and Win.Packed.Generic-6680913-0. The file has been downloaded 240 times and uploaded once. It has also been identified by other sources such as VirusTotal, which identified the file as malicious 2/75 times.
+Noteworthy patterns include 33/63 detections on VirusTotal and the detection of executables attempting to enumerate video devices via WMI as identified by the Yara Rule INDICATOR_SUSPICIOUS_EXE_WMI_EnumerateVideoDevice.
 
-The file has been identified by Yara rules such as BAZT_B5_NOCEXInvalidStream and INDICATOR_SUSPICIOUS_EXE_WMI_EnumerateVideoDevice. The file has also been identified by a Cape Sandbox analysis.
-
-Overall, this file appears to be a malicious executable, likely related to AsyncRAT, as identified by its signature. It has been identified by multiple intelligence sources, and has been downloaded and uploaded multiple times.
+Overall, this file appears to be related to malicious activity and should be further investigated.

@@ -1,0 +1,9 @@
+SHA256_Hash: 838ce5b36c1e435c66278140a5ba8c1468f5e844f8cd8dd4aa330c5640b56053 Indicators Report
+
+This report provides an overview of the SHA256_Hash 838ce5b36c1e435c66278140a5ba8c1468f5e844f8cd8dd4aa330c5640b56053, a file.exe first seen on 2023-06-28 14:18:24. The file is 501776 bytes in size and has a MIME type of application/x-dosexec.
+
+The file has been reported by Abuse_Ch and is believed to originate from the Netherlands. The file has been identified by ClamAV as Win.Dropper.Formbook-9993903-0, Win.Packed.Cerbu-9993871-0, Win.Packed.Formbook-9980347-1, and Win.Packed.Generic-6680913-0. The file has been downloaded 231 times and uploaded 1 time.
+
+The file has been analyzed by ANY.RUN and has been identified as malicious activity. The file has been identified by Yara as BAZT_B5_NOCEXInvalidStream.
+
+Overall, this file appears to be malicious and should be avoided.

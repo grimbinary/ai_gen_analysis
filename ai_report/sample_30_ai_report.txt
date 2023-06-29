@@ -1,0 +1,9 @@
+The sha256_hash: 99409ef40a5a3f9f4f57646dd024b496b8ff9608582516401e07559a42643a26 Indicators Report:
+
+This report provides a summary of the information for the sha256_hash 99409ef40a5a3f9f4f57646dd024b496b8ff9608582516401e07559a42643a26. This hash is associated with a malicious executable file named aea0cc5cf15910cc2b77dcae87a6f105.exe that was first seen on 2023-06-28 17:35:08. It is an application/x-dosexec file that is 401920 bytes in size, and was reported by abuse_ch from the Netherlands.
+
+The signature associated with the file is RedLineStealer, and the file has been tagged as "exe" and "RedLineStealer". The delivery method for the file is web download. Intelligence for the file includes ClamAV, which identifies the file as Win.Packer.pkr_ce1a-9980177-0, as well as 299 downloads and 1 uploads.
+
+The file information includes a URLhaus context and value of https://urlhaus.abuse.ch/url/2667674/, and a Cape analysis context and value of https://www.capesandbox.com/analysis/403615/.
+
+The most interesting aspects of this report are the signature and the intelligence associated with the file. The signature indicates that the file is associated with the RedLineStealer malware, which is known to be used for information theft. The intelligence indicates that the file has been downloaded 299 times and uploaded 1 time, suggesting it is a popular malicious file. Additionally, the ClamAV identification of the file as Win.Packer.pkr_ce1a-9980177-0 provides further evidence of the malicious nature of the file.

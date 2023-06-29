@@ -1,0 +1,13 @@
+Indicators Report for 7afcf780cb130e2d294e7eca704cb2914d50c738748da431ee275dacc3e5344e:
+
+This report summarizes the most interesting aspects of the provided information on the SHA256 hash 7afcf780cb130e2d294e7eca704cb2914d50c738748da431ee275dacc3e5344e. The file was first seen on 2023-06-28 14:42:24, with a file name of ecbd37c3d75e81c121cd89bff24dcfc4.exe, a file size of 174080 bytes, and a file type of application/x-dosexec. The origin country of the file is NL, and the signature is AsyncRAT. Tags associated with the file include AsyncRAT and exe, and the delivery method was web_download.
+
+Intelligence associated with the file includes ClamAV detections of Win.Packed.AsyncRAT-9856570-1 and Win.Packed.AsyncRAT-9938103-1, 247 downloads and 1 uploads, and URLhaus detection of https://urlhaus.abuse.ch/url/2671913/. CAPE Sandbox detection of the file can be found at https://www.capesandbox.com/analysis/403583/. Additionally, the file has an imphash of f34d5f2d4577ed6d9ceec516c1f5a744, a TLSH of T10F044A1437E85919E3FF9FB8F4B002258BB2F823A517D76F199458EE2D62344D910BB2, and an SSDeep of 3072:S+STW8djpN6izj8mZwP900qo2HD9avlCIPu/i9bSJ2crcgR6+WpP:P8XN6W8mmP9kHDYd/PSi9b6.
+
+Yara rules associated with the file include INDICATOR_SUSPICIOUS_EXE_ASEP_REG_Reverse and INDICATOR_SUSPICIOUS_EXE_CC_Regex.
+
+No OLE information is associated with this file.
+
+No vendor intel is applicable.
+
+Overall, the file is associated with AsyncRAT, has been seen in the wild 247 times, and is detected by several security products.

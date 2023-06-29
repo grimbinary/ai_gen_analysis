@@ -1,0 +1,9 @@
+etc", "reference": null}], "vendor_intel": [{"vendor": "Microsoft", "intel": "Malware:Win32/Tofsee.A!ml"}]}]
+
+Title: b2f5d09c0f4f4ad390c939e6d2d4af2e1155362a409d20a784826ec0320afadb Indicators Report
+
+This report provides an overview of the indicators associated with a malicious file with the SHA256 hash of b2f5d09c0f4f4ad390c939e6d2d4af2e1155362a409d20a784826ec0320afadb. The file was first seen on 2023-06-28 20:33:44. It is a 313344 byte executable file named "file". It was reported by andretavare5 and is believed to have originated from the United States. It is associated with multiple tags, including "exe" and "Tofsee", and its delivery method is believed to be web_drive-by.
+
+The file is believed to be associated with the malware PrivateLoader and has been identified by Microsoft as Malware:Win32/Tofsee.A!ml. Additionally, it is identified by multiple intelligence sources, including ClamAV (Win.Packer.pkr_ce1a-9980177-0), URLhaus (https://urlhaus.abuse.ch/url/2513471/), and CAPE (https://www.capesandbox.com/analysis/403630/). It is also associated with two Yara rules: "MALWARE_Win_Tofsee" and "shellcode".
+
+Overall, this file has been identified by multiple sources as malicious and associated with the malware PrivateLoader. It is highly recommended that users do not interact with this file and take appropriate steps to protect their systems.

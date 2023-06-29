@@ -1,0 +1,36 @@
+exe", "first_seen": "2021-06-28 14:20:02"}]}}]
+
+SHA256 Hash: 6b9796476ea4bfde956b54ec34cc751539312ee9b721f25d293c38ee7f794cc2
+
+File Name: file.exe
+
+File Size: 730272
+
+File Type: exe
+
+Reporter: abuse_ch
+
+Origin Country: NL
+
+Signature: NetSupport
+
+Tags: exe, NetSupport
+
+Delivery Method: N/A
+
+Intelligence: ClamAV, 235 Downloads, 1 Uploads, No Mail
+
+File Information: Cape
+
+OLE Information: N/A
+
+Vendor Intel: Any.Run – Malicious Activity
+
+
+6b9796476ea4bfde956b54ec34cc751539312ee9b721f25d293c38ee7f794cc2 Indicators Report:
+
+This report is based on a file with a SHA256 hash of 6b9796476ea4bfde956b54ec34cc751539312ee9b721f25d293c38ee7f794cc2. The file is an executable, with a file size of 730272 bytes, and was first seen on 2021-06-28 14:20:02. The origin country of the file is NL and it was reported by abuse_ch. The signature of the file is NetSupport and it has been tagged as exe, NetSupport.
+
+The file has been identified as malicious activity by Any.Run, and is also identified as a Win32 CrypterX-gen by ClamAV. It has been downloaded 235 times and uploaded 1 time. There is no mail associated with the file. The file information includes a link to Cape, which provides further analysis of the file.
+
+This report highlights several noteworthy patterns and observations. The file has been identified as malicious activity by Any.Run and as a Win32 CrypterX-gen by ClamAV. It has been downloaded 235 times and uploaded 1 time, suggesting that it is a popular file. The file information includes a link to Cape, which provides further analysis of the file. This report provides insight into the indicators associated with this file, which can be used to identify similar malicious files.

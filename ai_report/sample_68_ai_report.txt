@@ -1,0 +1,9 @@
+The SHA256 hash of the file provided is f15efc199baae5de89401024d42aa136fe03c1cfbea1c8eba689a5e832d83289. It was first seen on 2023-06-28 14:31:18. The file name is PO-1120011658.exe, the file size is 668160 and the file type is application/x-dosexec. The reporter is abuse_ch and the origin country is NL. The signature of the file is SnakeKeylogger, the tags are exe and SnakeKeylogger, and the delivery method is unknown.
+
+The intelligence provided on the file shows that it has been downloaded 245 times and uploaded once. It has been identified by ClamAV as SecuriteInfo.com.Trojan.PackedNET.2142.13249.12832.UNOFFICIAL. The file also has an Imphash of f34d5f2d4577ed6d9ceec516c1f5a744 and a TLSH of T162E4083C6B7D9A22C034D6B5CED584B3F2558F3AB411D522588A7BB52722B921DC333E.
+
+The most interesting aspect of this report is the intelligence that has been gathered on the file. It has been identified as a malicious file by ClamAV and has been downloaded 245 times and uploaded once. Additionally, it has an Imphash and a TLSH which are two indicators of malicious activity. The file also has been identified as having suspicious binary references to web browsers, which is another indicator of malicious activity.
+
+Overall, this file is identified as a malicious file and should be handled with caution. 
+
+f15efc199baae5de89401024d42aa136fe03c1cfbea1c8eba689a5e832d83289 Indicators Report

@@ -1,0 +1,15 @@
+The SHA256 hash of this file is 46ecfef99cca7791e1774532f6cce55d14ff8ead55370c766f8778cf698eef2e. It was first seen on 2023-06-28 12:15:37, with a file name of DiscordNitro.exe, a file size of 6931046, a file type of application/x-dosexec and a reporter of anonymous. The origin country was LU and the delivery method was web_download.
+
+The intelligence provided indicates that the file was identified as a CoinMiner Trojan by ClamAV and the download and upload count is 274 and 1 respectively. It also has the imphash 0b5552dccd9d0a834cea55c0c8fc05be.
+
+The file also has two yara rules associated with it, PyInstaller and SUSP_Imphash_Mar23_3. The PyInstaller rule is used to identify executable files converted using PyInstaller, while the SUSP_Imphash_Mar23_3 rule is used to detect imphash often found in malicious files.
+
+The comment associated with the file states that it is another malware found on YouTube.
+
+46ecfef99cca7791e1774532f6cce55d14ff8ead55370c766f8778cf698eef2e Indicators Report
+
+This report summarizes the information provided on the file with the SHA256 hash of 46ecfef99cca7791e1774532f6cce55d14ff8ead55370c766f8778cf698eef2e. The file was first seen on 2023-06-28 12:15:37, with a file name of DiscordNitro.exe, a file size of 6931046, a file type of application/x-dosexec and a reporter of anonymous. The origin country was LU and the delivery method was web_download.
+
+The intelligence provided indicates that the file was identified as a CoinMiner Trojan by ClamAV and the download and upload count is 274 and 1 respectively. It also has the imphash 0b5552dccd9d0a834cea55c0c8fc05be. The file also has two yara rules associated with it, PyInstaller and SUSP_Imphash_Mar23_3.
+
+The comment associated with the file states that it is another malware found on YouTube. This is notable as it indicates that the file may be a part of a larger campaign, and should be monitored for further activity.

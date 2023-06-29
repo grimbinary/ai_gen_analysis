@@ -1,0 +1,15 @@
+", "author": "kevoreilly, JPCERT/CC Incident Response Group", "description": "Suspicious EXE using ASEP Registry Persistence", "reference": null}], "vendor_intel": {"maxmind": {"continent": "North America", "country": "United States", "city": "San Francisco", "isp": "Cloudflare, Inc.", "asn": "AS13335", "organization": "Cloudflare, Inc.", "lat": 37.7510, "long": -97.8220}}}]
+
+F8FC2647FFFCA9883E5EB6CC375C4EFAFDB56D2F4A11FCE3B4444DADFB51D0CB Indicators Report
+
+This report summarizes the information provided by a sha256_hash of "f8fc2647fffca9883e5eb6cc375c4efafdb56d2f4a11fce3b4444dadfb51d0cb". The file was first seen on June 28th, 2023 at 18:19:24 and is a 48640 byte executable file with the name "xv1Nd2aIIxRn.exe". It has been reported by "pmelson" and originated from the United States. The signature assigned to this file is "AsyncRAT" and it has been tagged as such. The delivery method appears to be web download.
+
+The intelligence gathered from this report reveals that it has been identified by the ClamAV antivirus engine as Win.Packed.AsyncRAT-9861056-1 and Win.Packed.Razy-9625918-0. It has been downloaded 258 times and uploaded once. No mail intelligence is available. 
+
+The vendor intel obtained from Maxmind indicates that the file originated from the North American continent, the United States, San Francisco, Cloudflare Inc. (ISP), AS13335, and Cloudflare Inc. (Organization).
+
+Two YARA rules have been identified as associated with this file: AsyncRat and INDICATOR_SUSPICIOUS_EXE_ASEP_REG_Re..., both authored by kevoreilly and the JPCERT/CC Incident Response Group.
+
+No OLE information is available for this file.
+
+Overall, this report indicates that the file "f8fc2647fffca9883e5eb6cc375c4efafdb56d2f4a11fce3b4444dadfb51d0cb" is an executable file identified as AsyncRAT, hosted on a US-based server, and has been downloaded 258 times. It is associated with two YARA rules, and has been identified by the Clam

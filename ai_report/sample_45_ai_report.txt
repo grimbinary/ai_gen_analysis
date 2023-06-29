@@ -1,0 +1,13 @@
+See more", "reference": null}, {"rule_name": "Hide_CMD", "author": "iam-py-test", "description": "Detects files that are attempting to hide a cmd window.", "reference": null}, {"rule_name": "Disable_UAC", "author": "iam-py-test", "description": "Detects files that are attempting to disable UAC.", "reference": null}, {"rule_name": "Modi_Loader_Generic", "author": "iam-py-test", "description": "Generic detection for Modi Loader.", "reference": null}], "vendor_intel": [{"name": "VirusTotal", "value": "https://www.virustotal.com/#/file/f7dd09c86b9eac79499a0f210a294906a2c40978b579613f2d49273cfeac0bc4/detection"}]}]
+
+Report:
+
+f7dd09c86b9eac79499a0f210a294906a2c40978b579613f2d49273cfeac0bc4 Indicators Report
+
+This report provides an overview of the indicators associated with the SHA256 hash of f7dd09c86b9eac79499a0f210a294906a2c40978b579613f2d49273cfeac0bc4. The file was first seen on 2023-06-28 15:05:51, with a file name of "file" and a file size of 763904. The file type is application/x-dosexec and the reporter is "jstrosch". The origin country is US, and the signature associated with the file is "ModiLoader".
+
+The file has been tagged with "exe" and "ModiLoader", and is believed to have been delivered via web_download. Intelligence sources such as ClamAV, VirusTotal, and Downloads/Uploads are associated with the file. File information includes a context of "cape" and a value of https://www.capesandbox.com/analysis/403596/.
+
+Yara rules associated with the file include "CMD_Ping_Localhost", "Disable_Defender", "Hide_CMD", "Disable_UAC", "Modi_Loader_Generic", and "Vendor_Intel". Vendor Intel information includes a name of "VirusTotal" and a value of https://www.virustotal.com/#/file/f7dd09c86b9eac79499a0f210a294906a2c40978b579613f2d49273cfeac0bc4/detection. 
+
+Overall

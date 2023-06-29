@@ -1,0 +1,7 @@
+The report is about 59a894ea657c52488e4d0b1b5a67988ca4057e9be7babe3e2d67a85e8267a3ca Indicators Report. This file is an .exe file of size 1021064 bytes, with an MD5 hash of 53b42ff4db43ae3af0f274441d584043 and SHA256 hash of 59a894ea657c52488e4d0b1b5a67988ca4057e9be7babe3e2d67a85e8267a3ca. It was first seen on June 28th, 2023 at 21:02:15. It was reported by andretavare5 and is of US origin.
+
+The signature associated with this file is RedLineStealer and it is identified by ClamAV as SecuriteInfo.com.Trojan.PWS.Stealer.35843.16458.15396.UNOFFICIAL. It is tagged as exe and RedLineStealer and is delivered via web_drive-by. There are 241 downloads and 1 uploads associated with this file.
+
+The file is associated with PrivateLoader and is linked to a URLhaus URL. It has been analysed by CAPE Sandbox and is associated with a Yara rule named cobalt_strike_tmp01925d3f.
+
+The most interesting aspect of this report is the signature associated with the file, RedLineStealer. This is a known malicious tool used to steal private information from compromised systems. Additionally, the fact that this file has been downloaded 241 times and uploaded 1 time is noteworthy, as this could indicate that it is a widely used malicious tool.

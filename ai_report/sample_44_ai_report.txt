@@ -1,0 +1,9 @@
+SHA256_c79d5c1b10a3c1959755ab98a2c097c00544e6f42e108df002f48cf2d9d9baa8 Indicators Report
+
+This report provides an analysis of the file identified by the SHA256 hash of c79d5c1b10a3c1959755ab98a2c097c00544e6f42e108df002f48cf2d9d9baa8. It was first seen on 2023-06-28 15:06:11 and has a file size of 1466680 bytes. The file type is an executable (exe) and was reported by the user jstrosch. It originated in the United States and has been identified as the malware family “Amadey”.
+
+The file was delivered via web download and has been identified by multiple sources as malicious. Clamav identified the file as “SecuriteInfo.com.FileRepMalware.13250.6664.UNOFFICIAL” and Any.Run identified it as “arkei”. It has been downloaded 257 times and uploaded once.
+
+The file also contains an imphash, tlsh, and ssdeep values, as well as a dhash_icon. Additionally, it has been identified by Yara rule “PE_Digital_Certificate”.
+
+Overall, this file appears to be malicious and has been identified as such by multiple sources. It has been downloaded numerous times and uploaded once, indicating it is likely part of a larger malware campaign.

@@ -1,0 +1,11 @@
+Indicators Report for cf4a0d62d7bd3c46708d938cc52e6d0b31c03d53f771a8bba1b7210452aabc69:
+
+This report provides a summary of the SHA256 Hash, First Seen, File Name, File Size, File Type, Reporter, Origin Country, Signature, Tags, Delivery Method, Intelligence, File Information, OLE Information, and Vendor Intel.
+
+The file in question is a .exe file, with a file size of 176640 bytes, and a file name of 51b7849db58928fb6c1f1e2a343cd2f0.exe. The file was first seen on 2023-06-28 20:30:12. The reporter is abuse_ch, and the origin country is NL. The signature associated with the file is "RedLineStealer". The delivery method for the file is web_download.
+
+The file has been identified by multiple intelligence sources, including Clamav, which identified the file as Win.Packed.Lazy-9958163-0, and URLhaus, which identified the file as https://urlhaus.abuse.ch/url/2673505/. The file also has a number of tags, including "exe" and "RedLineStealer".
+
+The file also has a number of other indicators associated with it, including an IMPHASH of f34d5f2d4577ed6d9ceec516c1f5a744, a TLSh of T14304D558324BA5BEC96F887D9C700CE0667CAC671246AB078D8EF0E43D3A7919F451F6, and a DHASH of 10f0d4d0d4d4cc33.
+
+Overall, the file is identified as a malicious program, potentially related to the RedLineStealer malware. It has been identified by multiple intelligence sources, and has a number of indicators associated with it.

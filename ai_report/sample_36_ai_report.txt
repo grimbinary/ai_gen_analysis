@@ -1,0 +1,7 @@
+Indicators Report: 2e5d574906604a038604f9fd6604ae750fcee4b156c3a7fc7fc8fc42b7d52b69
+
+This report summarizes the most interesting aspects of the information provided concerning the SHA256 Hash 2e5d574906604a038604f9fd6604ae750fcee4b156c3a7fc7fc8fc42b7d52b69. The file name of this executable is “hanabi.exe”, it has a file size of 1895936, and its type is “application/x-dosexec”. It was first seen on 2023-06-28 16:16:23 and was reported by “obfusor” from the origin country of HK. It has the Imphash “bd002053ce543385f312df496cd35b78”, the TLSH “T11D95AF2177A084BAC1B33531552E83BDA6B5AA205B3952F357902F393F305D29A3C76F”, and the SSDeep “49152:dmUCGL+kDxiSOASJCIYYTZI2yxRbxb0lSzfNpOUacN3d4idakw0Ju6MnrV10:QwL+gJGJCIYYK2yxRbxb0lSzfNpnH3u0”.
+
+The Intelligence section shows that the Clamav detected it as “SecuriteInfo.com.Win32.RATX-gen.18455.12899.UNOFFICIAL”, there have been 267 downloads and 1 uploads, and there is no information on mails. The File Information section provides a context of “cape” with a value of “https://www.capesandbox.com/analysis/403605/”. The Vendor Intel section shows that Any.Run detected it as “Suspicious activity”, and CERT-PL_MWDB detected it as “Malware”.
+
+The most interesting pattern observed in the provided information is the presence of the Imphash, TLSH, and SSDeep values, which provide strong indicators that the file is associated with malicious activity. The Clamav and Any.Run detections also provide further confirmation that the file is malicious.

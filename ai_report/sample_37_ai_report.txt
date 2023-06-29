@@ -1,0 +1,9 @@
+SHA256_Hash: bbf825a26d40e100d179dbade591269215738f768c31d2bbfcb184aebbc03ece Indicators Report
+
+This report provides a summary of the most interesting aspects of the provided information regarding the SHA256_Hash: bbf825a26d40e100d179dbade591269215738f768c31d2bbfcb184aebbc03ece. The file is an executable (.exe) of 1.9 MB in size, with the first seen date of 2023-06-28 16:15:12. The file originates from Hong Kong and has been reported by the Obfusor.
+
+The Intelligence section of the report shows that the file has been downloaded 264 times and uploaded 1 time. The report also contains 3 Yara Rules (meth_stackstrings, PE_Digital_Certificate, PE_Potentially_Signed_Digital_Certificate) and 1 File Information (cape). The File Information is a link to the Cape Sandbox Analysis for the file, which may contain more detailed information about its characteristics.
+
+The File Information, OLE Information, and Vendor Intel are all blank, suggesting that there may not be any additional relevant information to be found.
+
+Overall, this file appears to be a suspicious executable that has been reported by the Obfusor and is of unknown origin. It has been downloaded and uploaded multiple times, suggesting that it may be a malicious file. The Yara Rules and the Cape Sandbox Analysis link may provide more information about the file and its characteristics.

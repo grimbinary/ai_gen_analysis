@@ -1,0 +1,13 @@
+", "reference": null}], "vendor_intel": [{"vendor": "VirusTotal", "intelligence": {"detections": "56/75", "malicious": "2/75"}}]}]
+
+SHA256 Hash: cb9bb8d4b50cb8090ecf8af646e8b691a9c8cdd3dc0b40a217af4b84e08f7563
+
+cb9bb8d4b50cb8090ecf8af646e8b691a9c8cdd3dc0b40a217af4b84e08f7563 Indicators Report:
+
+This report is based on the provided SHA256 hash, cb9bb8d4b50cb8090ecf8af646e8b691a9c8cdd3dc0b40a217af4b84e08f7563. The file was first seen on 2023-06-28 14:19:21, and is named 0c160b0c2ee4b192f4d9cf0202b57a43, with a file size of 371216. It is classified as an executable (exe) file, and has a signature of AsyncRAT. It has been reported by abuse_ch, and has an origin country of NL. It has been tagged with 0c160b0c2ee4b192f4d9cf0202b57a43, AsyncRAT, exe, and RAT.
+
+The file has been identified by intelligence sources such as ClamAV, which identified the file as Win.Dropper.Formbook-9993903-0, Win.Packed.Cerbu-9993871-0, Win.Packed.Formbook-9980347-1, and Win.Packed.Generic-6680913-0. The file has been downloaded 240 times and uploaded once. It has also been identified by other sources such as VirusTotal, which identified the file as malicious 2/75 times.
+
+The file has been identified by Yara rules such as BAZT_B5_NOCEXInvalidStream and INDICATOR_SUSPICIOUS_EXE_WMI_EnumerateVideoDevice. The file has also been identified by a Cape Sandbox analysis.
+
+Overall, this file appears to be a malicious executable, likely related to AsyncRAT, as identified by its signature. It has been identified by multiple intelligence sources, and has been downloaded and uploaded multiple times.

@@ -1,0 +1,9 @@
+exe", "sha256": "ffc129522f78570b8ef721893a067705d3dc875fc1f2bfda9f96d4cead0e4d67", "date": "2021-05-10T13:38:13.000Z", "environment": "ANY.RUN Sandbox", "url": "https://app.any.run/tasks/ffc12952-2f78-570b-8ef7-21893a067705"}]}}]
+
+ffc129522f78570b8ef721893a067705d3dc875fc1f2bfda9f96d4cead0e4d67 Indicators Report
+
+The provided data pertains to a malicious file with a SHA256 hash of “ffc129522f78570b8ef721893a067705d3dc875fc1f2bfda9f96d4cead0e4d67”. The file was first seen on June 28th, 2023 and has a file name of “Comprobante de pago. Exp. 9815.pdf.exe”, a file size of 675328 bytes, and a file type of “exe”. The reporter of the file is “malwarelabnet” and the origin country is “CA”. The signature of the file is “AgentTesla” and the tags associated with the file are “agenttesla” and “exe”.
+
+The intelligence associated with the file includes ClamAV detection of “SecuriteInfo.com.Win32.PWSX-gen.31622.14218.UNOFFICIAL”, 254 downloads, 1 upload, and no mail. There is also a link to Cape Sandbox for further analysis of the file. The Imphash of the file is “f34d5f2d4577ed6d9ceec516c1f5a744” and the TLSH is “T197E4383C29BD2B27D035D7A98FD48063F264943B3922EA265DC297D50756F9229C323F”.
+
+The most interesting aspect of the provided information is the detection of AgentTesla as the signature of the malicious file. AgentTesla is a type of malware used to steal information and it is known to be used in targeted attacks. Additionally, the file has been seen 254 times and uploaded once, suggesting that it is being widely distributed. Lastly, the provided link to Cape Sandbox for further analysis of the file provides a valuable resource to further investigate the malicious file.

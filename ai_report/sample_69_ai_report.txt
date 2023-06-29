@@ -1,0 +1,7 @@
+The SHA256 Hash for this report is 2867ebe7d83fb80174fb7bce2c73ff7a0f776fd57b9212294250335402b68809. It was first seen on 2023-06-28 14:30:17 with the file name 1.exe, a size of 1639424 bytes, of type application/x-dosexec, and reported by 0xToxin from the IL origin country. It has an Imphash of fc35a0089284ff9c7c45866438ea8a25, a TLSh of T1A975ADC2B39D8AD8CE725DF379E1B7C1BD677C250760B0DA2F952529AB301207E1D622, and a DHash Icon of 00ccd4d4d0c8d400. It was tagged with bjkataraedu-in, exe, and WebShellNirsoft. 
+
+The intelligence associated with this file included ClamAV detection of SecuriteInfo.com.VBS.Dropper-4.UNOFFICIAL, 242 downloads, 1 upload, and no mail information. The delivery method and signature are both null. The File Information includes a Context of cape with a value of https://www.capesandbox.com/analysis/403567/. There are no OLE Information or Vendor Intel. The Yara Rule included was an AutoIT_Compiled rule by @bartblaze.
+
+The most interesting aspect of this report is the intelligence associated with the file. The ClamAV detection, downloads, and uploads provide insight into the malicious nature of this file. The File Information Context and Value also provide an interesting tidbit in that it is associated with a specific analysis. Additionally, the Yara Rule being an AutoIT_Compiled rule provides additional indication of malicious intent. 
+
+2867ebe7d83fb80174fb7bce2c73ff7a0f776fd57b9212294250335402b68809 Indicators Report.

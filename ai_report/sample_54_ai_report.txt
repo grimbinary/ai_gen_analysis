@@ -1,0 +1,9 @@
+Indicators Report: 8236e441d353893420c1646df09087cfe8d2ea848976ae9f4b1b51f8cb5abaf5
+
+The file 8236e441d353893420c1646df09087cfe8d2ea848976ae9f4b1b51f8cb5abaf5 is an executable file of size 509222 bytes, first seen on June 28, 2023 at 14:48:29. It has been reported by abuse_ch and originates from the Netherlands. Its signature is “Loki” and it has been tagged with “exe” and “Loki”. It was delivered via web_download and has been found to contain suspicious activity according to ANY.RUN. Its hashes are 8236e441d353893420c1646df09087cfe8d2ea848976ae9f4b1b51f8cb5abaf5 (SHA256), 797ab56ceab8340b8ab8831d245d3d50dda1bf5135ace76abdd2097085604181cbad657a4bb212e8f871c5b0a075624e (SHA3_384), 1005c9cc9d82b4e9a28a3b607e9bc9690ed465ab (SHA1), and caa4ed1363c3e562a1852c962af0dc44 (MD5).
+
+It has been analyzed by both URLhaus and CAPE Sandbox, and has an Imphash of e2a592076b17ef8bfb48b7e03965a3fc, a TLSH of T145B4120063D12196CDA64876586712781DC4AC1294C49F43C78DB32B7EB7E86FDAFABC, and a ssdeep of 12288:9FKBG73lOUG2H7zS8zjDpQ11CmXSbuPlP7ZYa7XU:BrlMa7zbzPpuSbklPVE.
+
+The file has been downloaded 250 times and uploaded once, and has been identified by ClamAV as “SecuriteInfo.com.Trojan.Loader.1568.26017.14527.UNOFFICIAL”. No Yara rules are applicable, and there is no vendor intelligence available.
+
+Overall, this file is suspicious and should be handled with caution.

@@ -1,0 +1,9 @@
+e", "first_seen": "2021-06-28 14:01:46"}]}}]
+
+SHA256 Hash: 1b6b62b3f96553b8800f1c2c38ef1dde521a149715534f1fa19d02a9df8722bf
+
+1b6b62b3f96553b8800f1c2c38ef1dde521a149715534f1fa19d02a9df8722bf Indicators Report
+
+This report summarizes the most interesting aspects of the provided information regarding the SHA256 Hash 1b6b62b3f96553b8800f1c2c38ef1dde521a149715534f1fa19d02a9df8722bf. The file information includes a File Name of Inquiry Specification-2806023.exe, a File Size of 840704 bytes, a File Type of application/x-dosexec, a Reporter of James_inthe_box, an Origin Country of US, a Signature of AgentTesla, Tags of AgentTesla and exe, a Delivery Method of other, and Intelligence of Clamav, Downloads, Uploads, and Mail. The OLE Information and Vendor Intel are both empty.
+
+The most interesting aspect of this report is the signature of AgentTesla, which is associated with malicious activity. Additionally, the high number of downloads, 259, is a noteworthy pattern.

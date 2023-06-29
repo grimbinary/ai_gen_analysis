@@ -1,0 +1,9 @@
+Report Title: 189b5ffdd32dfe63a11a824a05c063b3b1d543a0eebdb75475a7d4159842bef6 Indicators Report
+
+This report is based on information provided regarding the SHA256 Hash 189b5ffdd32dfe63a11a824a05c063b3b1d543a0eebdb75475a7d4159842bef6. This is a malicious file of type .exe, first seen on 2023-06-28 14:21:38. The file size is 692240 bytes and it was reported by abuse_ch. The origin country is NL.
+
+The file has been identified by various antivirus systems as Win.Dropper.Formbook-9993903-0, Win.Packed.Cerbu-9993871-0, Win.Packed.Formbook-9980347-1, and Win.Packed.Generic-6680913-0. The file has been downloaded 238 times and uploaded once.
+
+The file has been tagged as "exe" and has been associated with the Yara rule "BAZT_B5_NOCEXInvalidStream". Vendor intel from ANY.RUN has identified the file as malicious and indicated that it is associated with malicious activity. There is also a link to a Cape Sandbox analysis of the file.
+
+In summary, the SHA256 Hash 189b5ffdd32dfe63a11a824a05c063b3b1d543a0eebdb75475a7d4159842bef6 is a malicious .exe file, first seen on 2023-06-28 14:21:38, with a file size of 692240 bytes. It has been reported by abuse_ch, with an origin country of NL. The file has been identified by various antivirus systems and has been associated with malicious activity. There is also a link to a Cape Sandbox analysis of the file and a Yara rule that has been associated with it.

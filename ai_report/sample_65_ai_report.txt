@@ -1,0 +1,13 @@
+/"}]}}]
+
+SHA256 Hash: bf7c9b2af58aff0d7ee0c677ae8fdc106452f3a7eae437cc47dcb0ae36a9134b
+
+Indicators Report
+
+The following indicators were found in a file with a SHA256 hash of bf7c9b2af58aff0d7ee0c677ae8fdc106452f3a7eae437cc47dcb0ae36a9134b. The file was first seen on 2023-06-28 14:32:57, has a file name of 799c6629928f0b945662d787d85a60e6.exe, is 2856448 bytes in size, is of type application/x-dosexec, and has an origin country of NL. The file has an Imphash of 4328f7206db519cd4e82283211d98e83, a TLSH of T1A4D523507614CDE2C88E26314C4B5EFA27B17B526D368F87F36DB32E1E727C06522296, an SSDeep of 49152:hkX17LLS6pLnlbv0l8jcsD0fFav+VPGHXsh6b95hBky5T3Pw7R4HL77:hSRWglb+8jcUV+VwX4e9nB15z0Q, and a dhash_icon of 6ce8e68aceca9acc.
+
+The file has been identified by the ClamAV engine as SecuriteInfo.com.Win32.TrojanX-gen.27534.25418.UNOFFICIAL. It has been downloaded 251 times and uploaded 1 time and has been identified as a redline malware family by Any.Run.
+
+The file has been identified as having been packed with Themida by a Yara rule called INDICATOR_EXE_Packed_Themida. It has also been analyzed by Cape Sandbox with a resulting URL of https://www.capesandbox.com/analysis/403571/.
+
+Overall, this file has been identified as malicious by multiple sources and is likely a trojan type of malware. It has been packed with Themida, identified as a redline malware family, and has been downloaded numerous times.

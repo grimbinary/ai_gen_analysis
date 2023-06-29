@@ -1,0 +1,11 @@
+3ddd3d/analysis/"}}, "virustotal": {"detection": "25/68", "link": "https://www.virustotal.com/gui/file/480f481f15179f3009791744f5e16f0fd4868da9b1e68cbeeab729d12f3ddd3d/detection"}}]
+
+480f481f15179f3009791744f5e16f0fd4868da9b1e68cbeeab729d12f3ddd3d Indicators Report
+
+This report summarizes the most interesting aspects of the provided information regarding the SHA256 hash 480f481f15179f3009791744f5e16f0fd4868da9b1e68cbeeab729d12f3ddd3d. This file was first seen on 2023-06-28 21:19:38, and is 11867136 bytes in size. It is an executable file with an anonymous reporter, origin country of LU, and signature of AgentTesla. The delivery method is unknown and the tags associated with this file are AgentTesla and exe.
+
+The intelligence associated with this file includes ClamAV detection of SecuriteInfo.com.Win32.DropperX-gen.1848.6871.UNOFFICIAL, 256 downloads, 1 upload, and no mail. The file information includes a context of CAPE and a value of a specific URL. There is no OLE information, YARA rules, or vendor intel associated with this file.
+
+When the file was uploaded to VirusTotal, it was detected as malicious by 25/68 engines. The vendor intel for this file includes detection of quasar from both ANY.RUN and CERT-PL_MWDB.
+
+Overall, this file is identified as malicious by multiple security sources, and should be avoided.

@@ -1,0 +1,11 @@
+62d79b7612daa665c7f2769bad890f7d42fc26849f0baa1c596e601b0a724057 Indicators Report
+
+This report summarizes the key indicators associated with the file 62d79b7612daa665c7f2769bad890f7d42fc26849f0baa1c596e601b0a724057. The file has been identified as an executable file (file type: exe) with a size of 732160 bytes, and is reported to have been first seen on 2023-06-28 14:52:30. The file has been identified to contain the signature “Formbook” and is associated with the tags “32”, “exe”, “Formbook”, and “trojan”.
+
+The file has been identified to have several associated hashes, including SHA256, SHA3_384, SHA1, and MD5. Additionally, the file has been identified to have an Imphash (f34d5f2d4577ed6d9ceec516c1f5a744), a TLSh (T1DCF4183C6B7D9A22D034C2B5CED584B3F2558F3AB411D523588A7BB52762B921DC332E), and a DHASH (d2929c9c9cd8e0f0).
+
+The file is reported to have been delivered via web download, and has been identified by the ClamAV engine to be SecuriteInfo.com.Trojan.PackedNET.2142.16867.11130.UNOFFICIAL. Additionally, the file has been identified to have been downloaded 261 times and uploaded 1 time.
+
+The file is associated with two sources of intelligence, including URLhaus (https://urlhaus.abuse.ch/url/2673413/) and CAPE (https://www.capesandbox.com/analysis/403592/). Additionally, the file is associated with two YARA rules, “pe_imphash” and “Skystars_Malware_Imphash”.
+
+Overall, the file 62d79b7612daa665c7f2769bad890f7d42fc26849f0baa1c596e601b0a724057 has been identified to be an executable file associated with the signature “Formbook” and the tags “32”, “exe”, “Formbook”, and “trojan”. The file has been identified to have been delivered via web download, and is associated with several

@@ -1,0 +1,9 @@
+PWSX-gen.16168.8416", "md5_hash": "493ece4e6645ac2e36f2342867354f7f", "sha256_hash": "b5dc27382870178d15ef052c2938fc32d4717b793bf9e726e7583695231bb2c4", "detection_date": "2020-07-15 12:10:56", "url": "https://app.any.run/tasks/f3c9f1c8-0d2e-4b3e-a9e0-c7b9f0f5fcc6", "ioc_type": "IOC_FILE"}]}}]
+
+B5DC27382870178D15EF052C2938FC32D4717B793BF9E726E7583695231BB2C4 Indicators Report
+
+This report is about a suspicious file found with the SHA256 hash of b5dc27382870178d15ef052c2938fc32d4717b793bf9e726e7583695231bb2c4. The file was first seen on 2023-06-28 14:33:36 and is named SecuriteInfo.com.Win32.PWSX-gen.16168.8416. It is an executable file with a size of 699904 bytes. The file was reported by SecuriteInfoCom and is believed to be of origin from France. The file is associated with the Formbook signature and is tagged as an exe. It has an imphash of f34d5f2d4577ed6d9ceec516c1f5a744.
+
+The intelligence associated with the file includes ClamAV, 247 downloads, 1 uploads, and no mail. The file has been analyzed by Cape Sandbox, with a link to the analysis provided. It has also been associated with Yara rules pe_imphash and Skystars_Malware_Imphash. Lastly, vendor intel from ANY.RUN has found suspicious activity associated with the file, along with the file name, MD5 hash, SHA256 hash, detection date, and URL.
+
+Overall, this file appears to be suspicious and is likely associated with malware. The presence of multiple Yara rules and vendor intel from ANY.RUN suggests that the file should be treated as malicious.

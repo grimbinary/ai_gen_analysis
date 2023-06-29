@@ -1,0 +1,5 @@
+Report Title: 5ee56307c6fc01f08cf1c73c8770f137d9e91d993e8fab9a66463c411d1b3523 Indicators Report
+
+This report is based on the provided information regarding the file 5ee56307c6fc01f08cf1c73c8770f137d9e91d993e8fab9a66463c411d1b3523. This file is an executable (exe) with a file size of 174080 bytes and was first seen on 2023-06-28 14:42:20. It was reported by abuse_ch and its origin country is NL. The signature of the file is AsyncRAT and the tags associated with the file are AsyncRAT and exe. The delivery method appears to be web_download and there is intelligence associated with the file, such as ClamAV detections, the number of downloads and uploads, and a link to Cape Sandbox. The file information includes a URLhaus link and the OLE information is empty.
+
+This file appears to be suspicious, as indicated by the signature AsyncRAT and the presence of Yara Rules for suspicious executables. The intelligence associated with the file also indicates that it has been downloaded and uploaded multiple times, suggesting that it is being shared or spread. The Cape Sandbox link is also indicative of suspicious behavior.

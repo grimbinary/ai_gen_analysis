@@ -1,0 +1,9 @@
+Report Title: 9d662cb0ec1b86f811a46768de783957246afe482a189e4c1015175ae118fe5c Indicators Report
+
+This report details the SHA256 hash 9d662cb0ec1b86f811a46768de783957246afe482a189e4c1015175ae118fe5c, which was first seen on 2023-06-28 21:00:37. It is an executable file named "newrun.exe" with a size of 114688 bytes. It is reported by ULTRAFRAUD, with an origin country of DE. It has been tagged as an executable file, and does not have a signature.
+
+The intelligence associated with this file includes a total of 253 downloads and 1 uploads. Additionally, it has been analyzed by the Cape Sandbox which concluded that it is not a threat. It has also been analyzed by the ANY.RUN platform, which also concluded that it is not a threat.
+
+The file contains an Imphash of 16e4f4472c833bee76a6bec918f8a75f, a TLSH of T1ADB35B5B77E530F8E1768238C8A11A4AE776B4760B609F5F03A442561F336D28D3EF62, an SSDeep of 3072:4xhNoey5kUfd/wMAVsEAoR/f5HdXRR8BT4:qoey5kUfAVsEt5HnW, and a DHash of null.
+
+The most interesting aspects of this report are the lack of any malicious indicators and the presence of a Yara rule from The DFIR Report. The presence of the Yara rule suggests that this file may be related to a specific attack or threat. Additionally, the file has been downloaded 253 times and uploaded once, suggesting that it may be a popular file.

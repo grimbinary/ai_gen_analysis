@@ -1,0 +1,9 @@
+9f41e12647a3de5cd9a9567c180cd4c5f11ad8d9c82ad9d6ad64de332006499d Indicators Report
+
+This report summarizes the most interesting aspects of the provided information related to the SHA256 hash 9f41e12647a3de5cd9a9567c180cd4c5f11ad8d9c82ad9d6ad64de332006499d. This includes the file name, file size, file type, reporter, origin country, signature, tags, delivery method, intelligence, file information, OLE information, and vendor intel.
+
+The file is named “Loader.exe” and has a file size of 38912. The file type is “application/x-dosexec” and the origin country is Germany. The reporter is ULTRAFRAUD and the tags associated with the file are “exe”. The delivery method is unknown and the intelligence associated with the file includes ClamAV, downloads, and uploads.
+
+The file information includes a link to the CAPE sandbox analysis of the file. The OLE information is empty and the vendor intel includes information from ANY.RUN, CERT-PL MWDB, and YOROI. ANY.RUN reported that no threats were detected, CERT-PL MWDB did not detect any malicious activity, and YOROI reported that the file is suspicious.
+
+Overall, the file appears to be suspicious and is worth further investigation.

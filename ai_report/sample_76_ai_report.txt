@@ -1,0 +1,5 @@
+], "signatures": []}]}}]
+
+SHA256_a566a538d325ee3da4c86712b3cf4b305d35b2612e2112cfa8f76b511e036e06 Indicators Report
+
+This report provides information on the SHA256_a566a538d325ee3da4c86712b3cf4b305d35b2612e2112cfa8f76b511e036e06 file, first seen on 2023-06-28 14:21:31. The file is a 692240 bytes application/x-dosexec.exe file, reported by abuse_ch from NL. It is classified as malicious activity by the ANY.RUN vendor intel, and is detected by ClamAV as Win.Dropper.Formbook-9993903-0, Win.Packed.Cerbu-9993871-0, Win.Packed.Formbook-9980347-1, and Win.Packed.Generic-6680913-0. It has been downloaded 236 times and uploaded once. It is associated with the BAZT_B5_NOCEXInvalidStream Yara rule. Additional information can be found at the Cape Sandbox analysis URL (https://www.capesandbox.com/analysis/403530/).

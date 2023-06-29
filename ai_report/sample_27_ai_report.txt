@@ -1,0 +1,7 @@
+This report is about the indicators of the SHA256 hash: 999260c0faffc38eb04d9cc07bdddb441f2d315eae34b7842c95a7076eaeb65b. The file was first seen on 2023-06-28 18:46:21, with a file name of 1fcbbe11c8004a763d0ea4944b92444b, a file size of 6600764, and a file type of application/x-dosexec. The origin country of the file is France, and the reporter is zbetcheckin. The file has been tagged as a 64-bit exe trojan, and it was delivered via web download.
+
+The intelligence associated with this file includes ClamAV findings for SecuriteInfo.com.HEUR.Trojan-PSW.Python.Agent.gen.8588.26986.UNOFFICIAL and Win.Keylogger.Python-9978779-0. Additionally, there have been 304 downloads and 1 upload associated with this file.
+
+The file has been identified as being converted using PyInstaller, and it has been linked to the URLhaus abuse.ch URL (2673484) and the Cape Sandbox analysis (403619).
+
+Overall, this file is associated with a trojan, and it is likely being used for malicious purposes. It is important to take the necessary steps to ensure that this file is not propagating further.

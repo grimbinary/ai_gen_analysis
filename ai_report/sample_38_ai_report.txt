@@ -1,0 +1,7 @@
+Indicators Report: f405134e5b1e953d5d845e537f74b02cf7ab10402df7020f6bda89ee8532cfba
+
+This report is about a malicious file, Shipping Documents.exe, which was first seen on 2023-06-28 16:00:20. It has a SHA256 hash of f405134e5b1e953d5d845e537f74b02cf7ab10402df7020f6bda89ee8532cfba, with a size of 772096 bytes. It is classified as an EXE file and has been reported by James_inthe_box from the United States. This file has been identified as AgentTesla and is associated with malicious activity according to the ANY.RUN vendor intel. It is also associated with several YARA rules including pe_imphash and Skystars_Malware_Imphash. This file has a signature of “f34d5f2d4577ed6d9ceec516c1f5a744” and it was delivered via other methods.
+
+The intelligence associated with this file includes 275 downloads and 1 uploads. It is important to note that this file is identified as malicious by ClamAV with the verdict of SecuriteInfo.com.Win32.PWSX-gen.7332.9555.UNOFFICIAL. It is also associated with the CAPE analysis, which found the file to be malicious.
+
+Overall, this file is a malicious file that has been identified as AgentTesla by several sources. It has a signature of “f34d5f2d4577ed6d9ceec516c1f5a744” and is associated with malicious activity. It has been downloaded 275 times and uploaded 1 time, and is identified as malicious by ClamAV. It is also associated with several YARA rules and the CAPE analysis.

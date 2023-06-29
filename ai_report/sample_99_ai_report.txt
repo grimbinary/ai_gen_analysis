@@ -1,0 +1,9 @@
+_crypto", "author": "dangtranhoang", "description": "Detects MSIL malware using a simple crypto algorithm", "reference": "https://github.com/dangtranhoang/yara-rules"}], "vendor_intel": [{"context": "URLhaus", "value": "https://urlhaus.abuse.ch/url/2673300/"}]}]
+
+Report: SHA256_8b2a9586bcf26045ba196d4714d8c628feb5d8eed4604ff82c6e3625b67a9437 Indicators Report
+
+This report provides an overview of the indicators associated with the SHA256_8b2a9586bcf26045ba196d4714d8c628feb5d8eed4604ff82c6e3625b67a9437 file. The file was first seen on 2023-06-28 10:28:42 and is a 712704 byte executable file named SecuriteInfo.com.Win32.PWSX-gen.6198.31692. It has been reported by SecuriteInfoCom from France and has been tagged with AgentTesla and exe. It has been identified as a malicious file by ClamAV and has been downloaded 293 times and uploaded once. The file also has an imphash of f34d5f2d4577ed6d9ceec516c1f5a744, a TLSh of T15AE4283C5B7D9A22C034C6B5CED584B3F2558F3AB411D922588A7BB52762B921DC333E, and an SSDeep of 12288:scj6T4Wg0tfComaiEkDoxx7UorpMRlr46Nwa+e:5UZvNC/yxx7UeOlE6.
+
+The file has been identified as malicious by ClamAV and has been linked to URLhaus and Cape Sandbox. Furthermore, two Yara rules have been identified that are related to the file - MSIL_SUSP_OBFUSC_XorStringsNet and msil_susp_..._crypto. The file also has a vendor intel associated with it from URLhaus.
+
+Overall, the SHA256_8b2a9586bcf26045ba196d4714d8c628feb5d8eed4604ff82c6e3625b67a9437 file is a malicious executable file that has been identified by multiple sources. It has been linked to URLhaus and Cape Sandbox and has two Yara rules associated with it. It has also been downloaded 293 times and uploaded once.

@@ -1,0 +1,9 @@
+Title: fc029a13dfcfee8a324499a1be4407bef2e72a6e1bd6ded7f561b6be9a2bc131 Indicators Report
+
+This report contains information on a file with the SHA256 hash of fc029a13dfcfee8a324499a1be4407bef2e72a6e1bd6ded7f561b6be9a2bc131. This file was first seen on 2023-06-28 20:25:11 and is a .exe file with a size of 56320 bytes. The file was reported by abuse_ch and is believed to have originated from the Netherlands. The signature of the file is "njrat" and is associated with malicious tags such as "exe", "njrat", and "RAT".
+
+The file has been seen 246 times and uploaded 1 time. It is also associated with multiple ClamAV detections such as Win.Trojan.Bladabindi-6192388-0, Win.Trojan.Generic-6417450-0, Win.Trojan.Generic-6454614-0, and Win.Trojan.Generic-6454615-0. It also has an imphash of f34d5f2d4577ed6d9ceec516c1f5a744 and a TLSH of T192432844BFEA4A05E2BD8F3468F655150634BA63E532EB1F48D668EB13327C58C40FE6.
+
+The file is associated with a context of cape and a value of https://www.capesandbox.com/analysis/403627/. It is also associated with two Yara rules, one authored by Florian Roth (Nextron Systems) and the other by the CyberInt Project.
+
+Overall, the file associated with this report appears to be malicious and is associated with multiple ClamAV detections, Yara rules, and a cape context. It is also associated with malicious tags, a signature of "njrat", and has been seen and uploaded multiple times.

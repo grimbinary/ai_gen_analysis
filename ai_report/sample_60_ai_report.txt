@@ -1,0 +1,7 @@
+The SHA256 hash for this file is d2349196b611e963c2099768c35e7b9de02436e1bccfe1b49d8311c41cd1ef55. It was first seen on 2023-06-28 14:42:01. The file name is ad302d8824a2e13a170604176ae1b571.exe and the file size is 402432 bytes. The file type is an executable, identified by the MIME type application/x-dosexec. The reporter is abuse_ch, and the origin country is NL. The signature is ArkeiStealer, and the tags associated with it are ArkeiStealer and exe. The delivery method is web download, and the intelligence related to this file includes ClamAV, downloads, uploads, and mail information.
+
+The file information includes a URLhaus link and a Cape Sandbox analysis. There is no OLE information and two Yara rules associated with this file. The first Yara rule is "has_telegram_urls" and is used to detect Telegram URLs. The second Yara rule is "INDICATOR_SUSPICIOUS_EXE_NoneWindowsUA" and is used to detect suspicious executables that do not have a Windows User Agent.
+
+The most interesting aspects of this information are the signature, ArkeiStealer, and the Yara rules associated with it. ArkeiStealer is a known malware family, and the Yara rules are used to detect it. This indicates that the file is potentially malicious and should be investigated further. 
+
+d2349196b611e963c2099768c35e7b9de02436e1bccfe1b49d8311c41cd1ef55 Indicators Report

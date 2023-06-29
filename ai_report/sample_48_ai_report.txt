@@ -1,0 +1,9 @@
+This report is for the SHA256 Hash 259f1fbe74a74d7a536397bde987a0531e5479827da769a22e125a1d6840103a. The file was first seen on 2023-06-28 14:52:35 and is named 9e075f19632321f1b9bd8e08c97ccc3c. It is an executable file (type: exe) with a size of 712704 bytes. It has been reported by zbetcheckin, and the origin country is FR.
+
+The signature associated with this file is AgentTesla, and it has been given the tags 32, AgentTesla, and exe. It was delivered through web download, and the intelligence associated with it includes Clamav, 262 downloads, 1 uploads, and no mail.
+
+The file information includes a URLhaus link (https://urlhaus.abuse.ch/url/2673412/) and a CAPE analysis link (https://www.capesandbox.com/analysis/403593/). The OLE information is empty, and the Yara Rules associated with it are pe_imphash and Skystars_Malware_Imphash. The vendor intel associated with this file is from ANY.RUN, which reports that the file is a malicious executable.
+
+The most interesting aspects of this file are the associated signature, AgentTesla, and its delivery method, web download. Additionally, the file has been seen in 262 downloads and 1 upload, which is a noteworthy pattern.
+
+SHA256_hash 259f1fbe74a74d7a536397bde987a0531e5479827da769a22e125a1d6840103a Indicators Report

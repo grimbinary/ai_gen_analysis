@@ -1,0 +1,7 @@
+Report: 82a7b83bacb8a14b90742ab0cc14fdfa1f27713d634542a3c6a8e0d4940a6a61 Indicators Report
+
+A file with the SHA256 hash of 82a7b83bacb8a14b90742ab0cc14fdfa1f27713d634542a3c6a8e0d4940a6a61 was first seen on 2023-06-28 14:21:20. It is a file.exe with a size of 497680 bytes, and is classified as a application/x-dosexec (exe) file type. It was reported by abuse_ch and originates from the Netherlands. Signature analysis has identified it as Formbook. Tags associated with the file include “exe” and “Formbook”.
+
+Intelligence analysis has identified the file as being associated with malicious activity, with 242 downloads and 1 uploads reported. It is also associated with the Win.Dropper.Formbook-9993903-0, Win.Packed.Cerbu-9993871-0, Win.Packed.Formbook-9980347-1, and Win.Packed.Generic-6680913-0 ClamAV signatures.
+
+The file has been linked to the Cape Sandbox analysis of 403529. It is also associated with the BAZT_B5_NOCEXInvalidStream Yara rule. Finally, analysis on Any.Run has identified it as malicious, with the analysis URL being https://app.any.run/tasks/94ba6078-8ee4-4e40-8e99-be3ed5b04f9d.

@@ -1,0 +1,9 @@
+}], "vendor_intel": {}}]
+
+C15796FACDF9378BDA2C0A972F8650E58CD3E35E582548C18BC70D046A55D520 Indicators Report
+
+This report provides an analysis of the SHA256 hash “c15796facdf9378bda2c0a972f8650e58cd3e35e582548c18bc70d046a55d520”. The file was first seen on 2023-06-28 14:41:41, with a file name of “54583393f5b39d6f0765d4a54e372e0b.exe”, a file size of 321024, and a file type of “application/x-dosexec”. The reporter is listed as “abuse_ch”, and the origin country is listed as “NL”. The signature is “Fabookie”, and the delivery method is “web_download”.
+
+The Intelligence section contains information about downloads (235) and uploads (1). The File Information section contains a URLhaus link and a Cape Sandbox link. The Yara Rules section contains several rules, including one that detects executables containing SQL queries to confidential data stores.
+
+The most interesting aspect of this report is the high number of downloads, indicating that this file is likely malicious and widely distributed. Additionally, the Yara Rule for detecting executables containing SQL queries to confidential data stores is noteworthy, as this could indicate that the file is an infostealer.

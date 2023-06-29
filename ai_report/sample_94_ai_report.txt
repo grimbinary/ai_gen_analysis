@@ -1,0 +1,11 @@
+Indicators Report: 13a43acaf411468a1ddfa5f221464f0ead5221a8694bb1027273206ecfa2e336
+
+This report is based on the sha256_hash of the file 13a43acaf411468a1ddfa5f221464f0ead5221a8694bb1027273206ecfa2e336 which was first seen on 2023-06-28 13:16:52. The file is an executable with a size of 313856 bytes and is identified as Smoke Loader. The origin country of the file is US and it was reported by andretavare5.
+
+The file contains the following tags: exe, Smoke Loader. It was delivered via web_drive-by and has been identified by several intelligence sources, including ClamAV, URLhaus, and CAPE. It has been downloaded 252 times and uploaded 2 times.
+
+The file information includes the context of "dropped_by_malware" with the value "PrivateLoader" and the URLhaus URL of "https://urlhaus.abuse.ch/url/2672592/". Additionally, the file has been identified by Cape Sandbox with the URL "https://www.capesandbox.com/analysis/403459/".
+
+The file has also been identified by the Vendor Intel provider, ANY.RUN, as a malicious file belonging to the Smoke family.
+
+The most interesting aspect of this file is that it has been identified by multiple intelligence sources as malicious, and has been downloaded and uploaded numerous times. This indicates that this particular file is widely distributed and is likely to be used in malicious activities.

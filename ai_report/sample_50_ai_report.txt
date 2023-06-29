@@ -1,0 +1,13 @@
+The SHA256 Hash for this report is f2286f903d9e0fd383ee8dd7bebcc90748c408fb24d43bc66a3ff602173fe6b7. The report includes information such as the File Name, File Size, File Type, Reporter, Origin Country, Signature, Tags, Delivery Method, Intelligence, File Information, OLE Information, and Vendor Intel.
+
+The most interesting aspect of this report is the Signature: AgentTesla. This is a form of malware that is used to steal user data, such as passwords, banking information, and other confidential information. The Delivery Method was listed as "other" and the Tags included "AgentTesla" and "exe" which is a common file type for malicious software. 
+
+The Intelligence section of the report is also noteworthy. There were 260 downloads and 1 upload, and the ClamAV antivirus detected the malware as SecuriteInfo.com.Trojan.PWS.Siggen3.30359.15645.29245.UNOFFICIAL. 
+
+The File Information section of the report includes a link to the Cape Sandbox which is a website that provides detailed analysis of malware and other malicious software. Additionally, two Yara rules were included in the report: "pe_imphash" and "Skystars_Malware_Imphash". 
+
+The Vendor Intel section of the report included information from ANY.RUN, which is a website that provides information on malware families. The report noted that the malware family was AgentTesla, with a verdict of Malicious activity. 
+
+In conclusion, the most interesting aspects of this report are the Signature (AgentTesla) and the Intelligence section, which provided information on the downloads and uploads, as well as the ClamAV antivirus detection. Additionally, the File Information section provided a link to the Cape Sandbox, and the Vendor Intel section provided information from ANY.RUN. 
+
+f2286f903d9e0fd383ee8dd7bebcc90748c408fb24d43bc66a3ff602173fe6b7 Indicators Report

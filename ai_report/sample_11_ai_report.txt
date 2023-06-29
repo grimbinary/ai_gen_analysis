@@ -1,0 +1,11 @@
+_v4_x_2", "author": "gssincla@google.com", "description": "Cobalt Strike's resources/reverse.bin signature for versions 4.x", "reference": "https://cloud.google.com/blog/products/identity-security/making-cobalt-strike-harder-for-threat-actors-to-abuse"}], "vendor_intel": []}]
+
+F5DA41544BE205F34D1D63D711A728350EB8F0254E419D2A39C14CB07C50F338 Indicators Report
+
+This report summarizes the most interesting aspects of the provided information about the file, f5da41544be205f34d1d63d711a728350eb8f0254e419d2a39c14cb07c50f338. This file was first seen on 2023-06-28 21:02:52 and is a 73802 byte executable with the file name of file25.exe. It was reported by ULTRAFRAUD and originated from Germany.
+
+The signature for this file is Meterpreter, and the tags associated with it are exe and Meterpreter. Delivery method is unknown. There are 238 downloads and 1 uploads associated with this file.
+
+The intelligence for this file shows that it is detected by Clamav as BC.Win.Trojan.Swrort-17210 and Win.Trojan.Swrort-5710536-0. There is also a file information context of cape, with a value of https://www.capesandbox.com/analysis/403637/.
+
+The hashes for this file are SHA256, SHA3_384, SHA1, MD5, Imphash, and TLSH. The hashes are f5da41544be205f34d1d63d711a728350eb8f0254e419d2a39c14cb07c50f338, ce62a54a135be68a33fd1d141a27b41855884e2122fc32c35ac0b151e936916efec4b92fd54a8525ceb36d816f2d1636, 8c0e6d883458f603ec845b7e2ea9ecf5fae96b80, 49c60e3d55583dd83ab272712aacf144, 481f47bbb2c9c21e108d65f52b04c448, and T13773BF42D5C41465C156127F2BB13B3A6974E5BB3212C29A3B4CCDE

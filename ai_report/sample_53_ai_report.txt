@@ -1,0 +1,11 @@
+4d9.exe", "detection_ratio": "1/68 (1.47%)", "detected_date": "2020-06-28"}], "hybrid_analysis": [{"malware_family": null, "verdict": "Malicious (AI Score=100)", "file_name": "5a10bd1d30a2ac38cc92244116ecb4d9.exe", "detection_ratio": null, "detected_date": "2020-06-28"}]}}]
+
+1eb7e20cc13f622bd6834ef333b8c44d22068263b68519a54adc99af5b1e6d34 Indicators Report
+
+This report is based on the SHA256 hash 1eb7e20cc13f622bd6834ef333b8c44d22068263b68519a54adc99af5b1e6d34, which is associated with a file named "5a10bd1d30a2ac38cc92244116ecb4d9.exe" of size 454656 bytes. The file type is an executable file, and it has been reported by the Abuse.ch reporter. The origin country is NL, and the signature is "Rhadamanthys". The tags associated with the file are "exe" and "Rhadamanthys", and it was delivered via web download.
+
+Intelligence on the file indicates that it has been detected by ClamAV as Win.Packer.pkr_ce1a-9980177-0, and it has been downloaded 251 times and uploaded once. The file has also been seen in URLhaus three times, and it has been analyzed in Cape Sandbox.
+
+The file has been flagged as malicious by both ANY.RUN and Hybrid Analysis, with a detection ratio of 1/68 and a score of 100 respectively.
+
+Overall, the file is identified as malicious with multiple detections and a high AI score. The file appears to have been downloaded multiple times, and is associated with URLhaus, suggesting it may be involved in malicious activity.

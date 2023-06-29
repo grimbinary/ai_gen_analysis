@@ -1,0 +1,5 @@
+The SHA256 Hash for this report is 172c676aad88fff72547aca0af781610bc968d2d60dab00d7d76319d5d53bf53. This file was first seen on 2023-06-28 20:22:58, with a file name of file, a file size of 312832 bytes, a file type of exe, and a reporter of andretavare5. It has an Origin Country of US, a signature of Fabookie, tags of exe and Fabookie, a delivery method of web_drive-by, and intelligence gathered from Clamav, Downloads, Uploads, and Cape.
+
+This file was identified as PrivateLoader by the context of being dropped by malware, and it was also identified as malicious in the ANY.RUN malware family of Smoke. The URLhaus identified it as a malicious URL, and it also has an analysis URL from Cape.
+
+The most interesting aspects of this file are its multiple identifications as malicious, and its multiple sources of intelligence. It is also noteworthy that the file was found on a web drive-by, meaning it was likely downloaded from a malicious website.

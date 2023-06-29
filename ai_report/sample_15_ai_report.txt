@@ -1,0 +1,7 @@
+SHA256_a4df733d5bc4d0c50249f228bd100ac4bffd19a330d57363039a1d0f18bd56f0 Indicators Report
+
+This report summarizes the most interesting aspects of the provided information for the SHA256_a4df733d5bc4d0c50249f228bd100ac4bffd19a330d57363039a1d0f18bd56f0 file. The file is an executable with a size of 1512624 bytes, first seen on 2023-06-28 20:51:33, and has been reported by andretavare5. The origin country is US. The file has been identified as a Win64.Trojan-gen.17094.12570 by the ClamAV antivirus. It is signed with a Samsung Neo QLED 8K Smart TV QE85QN900BU digital signature. It has been tagged as "exe" and "signed".
+
+The delivery method of this file is web_drive-by. It has been downloaded 245 times and uploaded once. The intelligence gathered on the file includes the ClamAV antivirus identification of a Win64.Trojan-gen.17094.12570, as well as the download and upload counts. The File Information, OLE Information, and Vendor Intel do not have any noteworthy patterns or observations based on the provided information. 
+
+Overall, this report summarizes the most interesting aspects of the SHA256_a4df733d5bc4d0c50249f228bd100ac4bffd19a330d57363039a1d0f18bd56f0 file. It is an executable, signed with a Samsung Neo QLED 8K Smart TV QE85QN900BU digital signature, identified as a Win64.Trojan-gen.17094.12570 by ClamAV antivirus, and has been downloaded 245 times and uploaded once.

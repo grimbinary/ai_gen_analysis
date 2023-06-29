@@ -1,0 +1,11 @@
+], "sha256_hash": "cd15fbc9e839dbc2888b3e72c47827e09a8bc50038a509f138c266ebcf2f3ed6"}]}}]
+
+CD15FBC9E839DBC2888B3E72C47827E09A8BC50038A509F138C266EBCF2F3ED6 Indicators Report
+
+The provided indicators report pertains to a malicious executable file with the SHA256 hash CD15FBC9E839DBC2888B3E72C47827E09A8BC50038A509F138C266EBCF2F3ED6. It was first seen on 2023-06-28 14:22:12 and has a file name of file.exe. It has a file size of 468496 bytes and it is of type application/x-dosexec. It was reported by abuse_ch and originated from the Netherlands. It is associated with the ArrowRAT signature and the tags ArrowRAT and exe.
+
+The intelligence associated with this file includes 263 downloads and 1 uploads, and is recognized as malicious by ClamAV with the Win.Dropper.Formbook-9993903-0, Win.Packed.Cerbu-9993871-0, Win.Packed.Formbook-9980347-1, and Win.Packed.Generic-6680913-0 signatures. It has also been identified as malicious activity by ANY.RUN.
+
+The file information includes a context from CAPE and the Yara rules include a BAZT_B5_NOCEXInvalidStream rule.
+
+Noteworthy patterns include the fact that the file was reported by abuse_ch and is recognized as malicious by multiple sources, including ClamAV and ANY.RUN.
